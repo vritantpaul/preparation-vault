@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#IndianEconomy  ",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "tag:#Globalization  ",
+      "color": {
+        "a": 1,
+        "rgb": 4496622
+      }
+    },
+    {
+      "query": "tag:#GrowthDevelopment  ",
+      "color": {
+        "a": 1,
+        "rgb": 16282651
+      }
+    },
+    {
+      "query": "tag:#SocialStructureInIndia  ",
+      "color": {
+        "a": 1,
+        "rgb": 14759883
+      }
+    },
+    {
+      "query": "tag:#FinancialSystem  ",
+      "color": {
+        "a": 1,
+        "rgb": 589292
+      }
+    },
+    {
+      "query": "tag:#PIB  ",
+      "color": {
+        "a": 1,
+        "rgb": 14045579
+      }
+    },
+    {
+      "query": "tag:#concept  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.09309002795382922,
+  "close": true
+}

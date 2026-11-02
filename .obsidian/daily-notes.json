@@ -1,0 +1,5 @@
+{
+  "format": "Do MMMM YYYY",
+  "folder": "Daily Tracker",
+  "template": "Template/Daily Tracker.md"
+}

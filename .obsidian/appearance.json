@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "numbered-list"
+  ],
+  "baseFontSize": 17,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "SN Pro"
+}

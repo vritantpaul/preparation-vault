@@ -1,0 +1,13 @@
+> [[Syllabus]]
+
+1. [[Economic History of India]]
+2. [[Changes in Industrial and Labor Policy]]
+3. [[Monetary and Fiscal Policy Since Reforms of 1991]]
+4. [[Priorities & Recommendations of Economic Survey & Union Budget]]
+5. [[Indian Money & Financial Markets|Indian Money & Financial Markets: Linkages With the Economy]]
+6. [[Role of Indian Banks & Reserve Bank in the Development Process]]
+7. [[Public Finance]]
+8. [[Political Economy]]
+9. [[Industrial Developments in India]]
+10. [[Indian Agriculture]]
+11. [[Service Sector in India]]

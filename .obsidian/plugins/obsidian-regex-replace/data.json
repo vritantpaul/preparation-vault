@@ -1,0 +1,10 @@
+{
+  "findText": "!",
+  "replaceText": "",
+  "useRegEx": false,
+  "selOnly": true,
+  "caseInsensitive": true,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

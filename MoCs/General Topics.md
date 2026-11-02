@@ -1,0 +1,11 @@
+> [[Syllabus]]
+
+1. [[Financial Risk Management]]
+2. [[Basics of Derivatives]]
+3. [[Global Financial Markets & International Banking|Global Financial Markets & International Banking — Broad Trends & Latest Developments]]
+4. [[Financial Inclusion]]
+5. [[Alternate Source of Finance|Alternate Source of Finance, Private & Social Cost Benefit, Public-Private Partnership]]
+6. [[Corporate Governance in Banking Sector]]
+7. [[Union Budget|The Union Budget — Concepts, Approach, and Broad Trends]]
+8. [[Basic of Accounting & Financial Statements]]
+9. [[Inflation]]

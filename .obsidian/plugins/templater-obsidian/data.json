@@ -1,0 +1,47 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "Template",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "Daily Tracker",
+      "template": "Template/Daily Tracker.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Template/Bold.md",
+    "Template/Italic.md",
+    "Template/Line Break.md",
+    "Template/Strikethrough.md",
+    "Template/Underline.md",
+    "Template/Toggle HTML.md",
+    "Template/Scheme.md",
+    "Template/Blue.md",
+    "Template/Anki Basic.md",
+    "Template/Anki Cloze.md",
+    "Template/Cloze.md",
+    "Template/HTML Comments.md",
+    "Template/HTML List.md",
+    "Template/HTML UL.md",
+    "Template/Anki Basic++.md",
+    "Template/ANL Links.md",
+    "Template/Anki Tags.md",
+    "Template/Source Link.md",
+    "Template/Daily Tracker.md",
+    "Template/Daily CA.md",
+    "Template/Scheme [Raw].md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": [],
+  "enable_ribbon_icon": true
+}

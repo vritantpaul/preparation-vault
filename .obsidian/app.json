@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [],
+  "attachmentFolderPath": "Assets",
+  "mobilePullAction": "command-palette:open",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Template/"
+  ],
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "settingsPopoutWindow": false
+}

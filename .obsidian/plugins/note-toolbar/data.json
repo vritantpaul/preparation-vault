@@ -1,0 +1,857 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": null,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "500f6349-dfea-4231-94ad-e8a330f79ee8"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "new-toolbar-mapping": true,
+    "startup-help-view": true,
+    "startup-help-welcome": true
+  },
+  "ribbon": [],
+  "rules": [
+    {
+      "id": "bf5421c7-2cbe-4e6f-9256-12f32971330b",
+      "conjunction": "and",
+      "conditions": [
+        {
+          "id": "b92c9049-822e-4de2-aef0-71464f9ee0e9",
+          "field": "folder",
+          "operator": "is",
+          "value": "*"
+        }
+      ],
+      "toolbar": "500f6349-dfea-4231-94ad-e8a330f79ee8"
+    }
+  ],
+  "scriptingEnabled": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "500f6349-dfea-4231-94ad-e8a330f79ee8",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": "102e946c-c62c-4007-ae66-6b4a693001a0",
+      "defaultStyles": [
+        "inactive"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "cd3862d0-8f62-4584-ad2f-63c5a78e678d",
+          "icon": "lucide-bold",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert Bold",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Bold.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "c34e9cd7-a04a-4466-858f-8b8de2c15f24",
+          "icon": "lucide-italic",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert Italic",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Italic.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "c5759042-3922-49b2-adce-888ccce8bc97",
+          "icon": "lucide-underline",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert Underline",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Underline.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "7306022e-62aa-405e-b08a-943d83d7350a",
+          "icon": "lucide-case-sensitive",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Text Format: Title-case",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-text-format:title-case",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "6b691c16-452a-4fcd-8880-e7da1b384e9b",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "102e946c-c62c-4007-ae66-6b4a693001a0",
+          "icon": "lucide-square-plus",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert Anki Basic++",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Anki Basic++.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "88d926d7-fe8b-4cb4-9f25-7bd8d8ec4a75",
+          "icon": "lucide-brackets",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Anki Cloze.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "f0502372-e837-4e34-8615-385d729a4cb2",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "5d0a56d0-448d-4a85-a10a-55b1a1221e91",
+          "icon": "lucide-braces",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert Cloze",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/Cloze.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "48b34751-c0a8-4f53-8a63-52c8c750b5fd",
+          "icon": "lucide-link-2",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Templater: Insert ANL Links",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "templater-obsidian:Template/ANL Links.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "9d63e613-3489-406d-baf9-5c163f287306",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "589e3b3b-029e-4a8b-9a2a-853b7ab74de2",
+          "icon": "lucide-undo",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Undo",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:undo",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "eec2c095-1dd5-498b-a683-3d217384d3e5",
+          "icon": "lucide-redo",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Redo",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:redo",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "d4fb3cdc-3ece-4be2-b58b-ea6f04428fa1",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "eae5e855-a607-40a8-a608-8963aaeb633e",
+          "icon": "lucide-list-ordered",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Toggle numbered list",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:toggle-numbered-list",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "dcef7858-ed72-42a9-8664-179604c79de9",
+          "icon": "lucide-list",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Toggle bullet list",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:toggle-bullet-list",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "2ce497f0-b573-4bd8-af14-ed52aa24f3c3",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "5e10fc8f-0e9e-4d3e-aca0-47b6af2fbc67",
+          "icon": "lucide-paperclip",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Insert attachment",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:attach-file",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "ac1faa6f-ed75-4309-b5df-50189655257f",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "spreader"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "2f42a89d-acf4-4a64-96bc-231a18f89b0d",
+          "icon": "lucide-indent",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Indent list item",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:indent-list",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        },
+        {
+          "uuid": "e85378d8-3229-4ffe-a6d2-484e93c225c5",
+          "icon": "lucide-indent-decrease",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Unindent list item",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:unindent-list",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "source"
+          }
+        }
+      ],
+      "mobileStyles": [
+        "mnwrp"
+      ],
+      "name": "Mobile Action",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "hidden"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "bottom"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "bottom"
+          }
+        }
+      },
+      "updated": "2026-02-12T05:27:31.897Z"
+    }
+  ],
+  "version": 20260812.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": "1.28",
+  "showEditInFabMenu": true
+}

@@ -1,0 +1,4 @@
+/* << Dataview list appearance >> */
+.dataview.list-view-ul {
+  list-style-type: decimal;
+}
