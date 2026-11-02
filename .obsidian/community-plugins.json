@@ -9,5 +9,6 @@
   "text-extractor",
   "pdf-plus",
   "quickadd",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "obsidian-git"
 ]
