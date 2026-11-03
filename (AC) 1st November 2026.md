@@ -43,4 +43,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=77,0,78,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.17]]
 > > Department of Posts Releases Commemorative Postage Stamps on Breast Cancer Awareness
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=221,21,225,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.17]]
+> > Ministry of Labour and Employment (MoLE)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=219,4,219,89&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.17]]
+> >  Constitutes National Social Security Board for Unorganised, Gig and Platform Workers
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=19&selection=75,0,115,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.19]]
+> > ✓ What? Release of report titled “Poverty and Equity Belief: October 2026” ✓ Released by: World Bank ✓ Period Covered: 2011–2023 (12 years) ✓ Extreme Poverty Rate in India: Declined from 27.1% to 2.6% (between 2011 and 2023) ✓ Extreme Poverty Line: USD 3 per day (2021 PPP)
+> 
 > 
