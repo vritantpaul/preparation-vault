@@ -50,9 +50,9 @@ Back:
 3. Non-transparent fees and unauthorized charges.*
 4. Low representation of women BC agents → reduced outreach and inclusivity.
 
-Footnote: Most BCs did not display service fees, and concerns existed about unauthorized or unaccounted upfront charges in addition to bank-built transaction charges.
+Footnote: * Most BCs did not display service fees, and concerns existed about unauthorized or unaccounted upfront charges in addition to bank-built transaction charges.
 
-Notice that asterisk. If you are adding a footnote, you are to put an asterisk on the point or keyword you are expanding on. YOU DON'T HAVE TO PUT THE ASTERISK ON THE FOOTNOTE ITSELF.
+Notice that asterisk. If you are adding a footnote, you are to put an asterisk on the point or keyword you are expanding on.
 
 7. Exhaustiveness: Ensure every single detail from the source (dates, amounts, locations, and names) is included in the cards.
 8. Paraphrasing: If the content is verbose, for instance, a definition, you have to paraphrase, simplify, and shorten it for easy retention, instead of just copy-pasting. Make sure the reworded version does not compromise the essence of the content.
