@@ -38,4 +38,9 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=16&selection=31,0,36,16&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.16]]
 > > Minister of State (MoS)- Pankaj Chaudhary
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=77,0,78,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.17]]
+> > Department of Posts Releases Commemorative Postage Stamps on Breast Cancer Awareness
+> 
 > 
