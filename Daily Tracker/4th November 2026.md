@@ -8,11 +8,12 @@
 - [ ] One Scheme
 - [ ] Newspaper Articles
 
----
+<center>***</center>
 
+> 📆Weekly PIB: [[(PIB) November Week 45]]
 > 🗓️Daily Affairs Cloud: [[(AC) 3rd November 2026]]
 
-
+---
 # Newspaper Articles
 
 - [ ] [[A relook at food subsidy.pdf]]
