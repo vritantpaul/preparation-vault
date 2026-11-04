@@ -98,4 +98,9 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=48,0,62,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
 > > President – Masato Kanda Headquarters – Mandaluyong, Metro Manila, Philippines
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=79,0,80,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
+> > Upstox Receives SEBI Approval to Operate as Online Bond Platform Provider
+> 
 > 
