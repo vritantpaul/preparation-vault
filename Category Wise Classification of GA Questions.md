@@ -1,0 +1,24 @@
+
+
+|**Category (as per AC Content Page)**|**2021**|**2022**|**2023**|**2024**|**2025**|**2026**|
+|:--|:--|:--|:--|:--|:--|:--|
+|**Banking & Finance**|Q9, Q16, Q17, Q18, Q19, Q27, Q30, Q34, Q35, Q37, Q42, Q45, Q48, Q50, Q51, Q54, Q68, Q71, Q79|Q2, Q5, Q10, Q11, Q24, Q25, Q26, Q27, Q29, Q34, Q46, Q55, Q59, Q61, Q69, Q72, Q73, Q74, Q76, Q77|Q3, Q9, Q11, Q16, Q18, Q20, Q22, Q25, Q31, Q32, Q34, Q35, Q36, Q43, Q56, Q59, Q60, Q64, Q66, Q68, Q70, Q71, Q73|Q2, Q3, Q5, Q7, Q9, Q13, Q14, Q16, Q17, Q18, Q21, Q23, Q25, Q27, Q28, Q29, Q34, Q37, Q38, Q44, Q46, Q50, Q52, Q54, Q64, Q65, Q67, Q68, Q69, Q71, Q74, Q76, Q78, Q80|Q17, Q18, Q19, Q21, Q22, Q32, Q35, Q38, Q43, Q44, Q46, Q51, Q52, Q53, Q54, Q62, Q64, Q66, Q67, Q68, Q75, Q79, Q80|Q13, Q15, Q17, Q22, Q28, Q29, Q34, Q35, Q37, Q41, Q51, Q52, Q55, Q56, Q61, Q66, Q69, Q73, Q74, Q76, Q79|
+|**National Affairs**|Q3, Q4, Q11, Q13, Q15, Q22, Q25, Q28, Q31, Q32, Q40, Q41, Q43, Q58, Q77|Q23, Q33, Q40, Q56, Q68|Q21, Q38, Q55, Q72, Q79|Q15, Q22, Q45, Q62, Q66, Q73|Q4, Q23, Q28, Q34, Q36, Q70, Q72, Q74|Q1, Q8, Q12, Q14, Q18, Q20, Q21, Q23, Q25, Q33, Q42, Q46, Q53, Q54, Q58, Q71, Q75, Q80|
+|**Economy & Business**|Q6, Q29, Q47, Q65, Q69, Q73, Q76|Q9, Q14, Q15, Q16, Q37, Q42, Q49, Q50, Q51, Q67, Q71, Q78|Q8, Q10, Q15, Q17, Q24, Q26, Q27, Q28, Q46, Q49, Q52, Q53, Q61, Q69, Q76, Q77|Q19, Q48, Q60|Q14, Q33, Q40, Q61|Q38, Q44, Q47, Q67|
+|**Govt Schemes**|Q7, Q20, Q23, Q24, Q39, Q44, Q63, Q70, Q78|Q1, Q4, Q12, Q17, Q18, Q30, Q36, Q39, Q41, Q62, Q70|Q44, Q48, Q50, Q51, Q80|Q10, Q20, Q41, Q51, Q61, Q79|Q15, Q39, Q47, Q48, Q78|Q45|
+|**Index, Ranking & Reports**|Q1, Q2, Q14, Q61, Q74|Q21, Q63|Q5, Q29, Q40, Q41, Q45, Q57, Q62, Q65|Q12, Q26, Q30, Q33, Q35, Q36, Q40, Q49, Q53, Q57, Q72|Q37, Q41, Q50, Q56, Q57, Q58, Q59, Q60|Q63, Q77, Q78|
+|**International Affairs**|Q12, Q52, Q72, Q75, Q80|Q6, Q7, Q28, Q32, Q35, Q58, Q66, Q79|Q1, Q2, Q13, Q14, Q19, Q47|Q4, Q11, Q32, Q42, Q56, Q59|Q12, Q63, Q69, Q76|Q2, Q3, Q9, Q11, Q36, Q50, Q62, Q64, Q70|
+|**Sports**|Q49, Q53, Q55, Q57, Q66|Q13, Q20, Q64|Q23, Q37, Q78|Q1, Q6, Q58, Q63|Q3, Q5, Q20|Q7, Q19, Q39, Q60|
+|**Environment**|Q10, Q21, Q56, Q60, Q67|Q22, Q31, Q44, Q57, Q65, Q80|Q7, Q12, Q33, Q42|Q39, Q43|Q49|Q24, Q43, Q59, Q65|
+|**Science & Technology**|—|Q8, Q52|Q58|Q31|Q24, Q30, Q65, Q73, Q77|Q16, Q27, Q32|
+|**Appointments & Resignations**|Q26, Q46|Q38, Q45, Q60|Q6, Q30|Q8, Q47|Q6, Q7, Q29|—|
+|**Awards**|—|Q19, Q75|Q4, Q54|Q24|Q1, Q25|Q4, Q10, Q31, Q68|
+|**Important Days**|Q36, Q62, Q64|Q3|Q39|—|Q9, Q10, Q55|Q5, Q6|
+|**Defence**|Q5, Q33|Q43|Q75|—|Q2, Q8, Q27, Q31|Q26, Q48|
+|**Apps & Web Portal**|Q8, Q38|Q53, Q54|Q67|Q75|Q71|Q57, Q72|
+|**State News**|Q59|Q47|—|—|Q16, Q26|Q40|
+|**MoU’s & Agreements**|—|—|Q63|Q55, Q77|Q13|—|
+|**Books & Authors**|—|Q48|—|—|Q11|Q30|
+|**Committees & Meetings**|—|—|—|Q70|Q42|—|
+|**Summits, Events & Conference**|—|—|Q74|—|Q45|—|
+|**Acquisition & Mergers**|—|—|—|—|—|Q49|
