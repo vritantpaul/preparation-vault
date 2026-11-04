@@ -1,1 +1,5 @@
-The GA 2025 file consists of general awareness questions asked in the RBI Grade B 2025 exam, while the AC Content Page consists of broad topic wise classification of questions. I want you to map each question to its respective category and tell me how many questions are asked from each category. Make a table. And if there are no questions asked from a certain category skip them.
+151st birth anniversary of Sardar Vallabhbhai Patel
+
+
+make India completely free from drugs by 31 December 2029
+
