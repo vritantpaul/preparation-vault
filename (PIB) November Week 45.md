@@ -25,3 +25,14 @@ Multi-tier grievance redressal mechanism
 at the Gram Panchayat, Block and District levels
 
 District Programme Coordinator will oversee grievance redressal at the district level
+
+***
+
+<a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331704&reg=48&lang=1">TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026</a>
+
+
+ TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026
+
+- The amended regulations shall apply to Internet Service Providers having more than ten thousand subscribers as on the last day of the preceding financial year.
+
+- The time limit for filing an appeal following disposal of a complaint has been revised from 30 days to 15 days
