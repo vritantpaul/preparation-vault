@@ -17,13 +17,14 @@ tR += `[[${yesterday}|⏮️]] | [[${tomorrow}|⏭️]]`;
 
 ---
 
+> 📆Weekly PIB: [[(PIB) <% tp.date.now("MMMM") %> Week <% tp.date.now("W") %>]]
 > 🗓️Daily Affairs Cloud: <%*  
 const fileDate = moment(tp.file.title, "Do MMMM YYYY");  
 const newFileName = `(AC) ${fileDate.subtract(1, "day").format("Do MMMM YYYY")}`;  
 tR += `[[${newFileName}]]`;  
 %>
 
-
+---
 # Newspaper Articles
 
 - [ ] 

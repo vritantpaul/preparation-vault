@@ -14,3 +14,29 @@ at the Gram Panchayat, Block and District levels
 District Programme Coordinator will oversee grievance redressal at the district level
 
 
+> [[Invalid date|⏮️]] | [[Invalid date|⏭️]]
+# Daily Targets 🎯
+
+- [ ] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [ ] Product Constancy
+- [ ] Macroeconomics Deck
+- [ ] General Awareness Deck
+- [ ] One Scheme
+- [ ] Newspaper Articles
+
+---
+
+> 🗓️Daily Affairs Cloud: [[(AC) Invalid date]]
+> 📆Weekly PIB: [[(PIB) November Week 45]]
+
+# Newspaper Articles
+
+- [ ] 
+
+---
+
+# Today's Agenda
+
+- [ ] Today's Scheme: 
+
+---
