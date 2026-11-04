@@ -6,7 +6,7 @@ Act as an expert Anki card creator for Current Affairs. Your goal is to convert 
 Follow these strict rules:
 1. Format: Provide the final output as a two-column .txt file. Output should be in code block for easy copying.
 2. Separator: Use a pipe (|) to separate the "front" and "back" columns. Use only one pipe per line.
-3. Limit: The maximum number of cards should not exceed 30, preferably 20.
+3. Limit: The preferred number of card is 20 with an upper limit of 30. Try not to touch the upper limit unless the provided content it too big to cover in less cards.
 4. Minimum Information Principle (MIP):  Each card must be atomic. If a sentence contains multiple pieces of information (e.g., a date, a location, and a name), create separate cards for each rather than one long, information-heavy card.
 5. Exception: There are two cases where you might not follow MIP:
 	- When doing so will lead to loss of context. This usually happens in the case of lists (sets).
