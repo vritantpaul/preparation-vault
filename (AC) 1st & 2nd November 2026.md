@@ -73,4 +73,29 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=19&selection=190,30,211,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.19]]
 > >  non-monetary poverty, which is measured through the Oxford Poverty and Human Development Initiative (OPHI)’s Multidimensional Poverty Index (MPI) has also decreased from 53.8% (in 2005-06) to 16.4% (2019-21)
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=30,8,33,49&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.20]]
+> > households in a contigious belt stretching from Uttar Pradesh (UP) to West Bengal (WB) account for nearly 57% of India’s poor population
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=70,6,77,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.20]]
+> > World Bank (WB): President- Ajay Banga
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=94,0,94,72&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.20]]
+> > ADB Approves USD 139.55 Million Loan for Urban Development in Puducherry
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=19,0,20,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
+> > About Asian Development Bank (ADB):
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=48,0,62,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
+> > President – Masato Kanda Headquarters – Mandaluyong, Metro Manila, Philippines
+> 
 > 
