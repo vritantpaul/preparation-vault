@@ -16,11 +16,7 @@
 ---
 # Newspaper Articles
 
-- [ ] [[A relook at food subsidy.pdf]]
-- [ ] [[NSEIX extends trading hours.pdf]]
-- [ ] [[RBI dy guv.pdf]]
-- [ ] [[RBI launches surveys.pdf]]
-- [ ] [[Women in managerial roles.pdf]]
+- [ ] 
 
 ---
 

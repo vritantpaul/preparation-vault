@@ -16,10 +16,11 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Sebi cuts of cool off period.pdf]]
-- [ ] [[Razorpay gets license.pdf]]
-- [ ] [[CDSCO mandate.pdf]]
-- [ ] [[TRAI consumer complaint rules.pdf]]
+- [ ] [[A relook at food subsidy.pdf]]
+- [ ] [[NSEIX extends trading hours.pdf]]
+- [ ] [[RBI dy guv.pdf]]
+- [ ] [[RBI launches surveys.pdf]]
+- [ ] [[Women in managerial roles.pdf]]
 
 ---
 

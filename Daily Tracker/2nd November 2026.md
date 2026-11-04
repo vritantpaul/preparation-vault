@@ -10,14 +10,14 @@
 <center>***</center>
 
 > 📆Weekly PIB: [[(PIB) November Week 45]]
-> 🗓️Daily Affairs Cloud: [[(AC) 1st & 2nd November 2026]]
 
 ---
 # Newspaper Articles
 
-- [x] [[Automatic settlement of small acc.pdf]]
-- [x] [[AI as force multiplier of PSBs.pdf]]
-- [x] [[UPI daily average value.pdf]]
+- [ ] [[Sebi cuts of cool off period.pdf]]
+- [ ] [[Razorpay gets license.pdf]]
+- [ ] [[CDSCO mandate.pdf]]
+- [ ] [[TRAI consumer complaint rules.pdf]]
 
 ---
 
