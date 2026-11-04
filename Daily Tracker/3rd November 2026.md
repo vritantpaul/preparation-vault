@@ -6,7 +6,6 @@
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
 - [ ] One Scheme
-- [ ] Newspaper Articles
 
 <center>***</center>
 

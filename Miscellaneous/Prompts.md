@@ -25,6 +25,8 @@ Structure:
 CRITICAL: Double-check that every front-side question contains <b> tags around the key term. If a card does not have bolding on the front, it is a failure of the format.
 ```
 
+## For PIB
+
 # For Finance Current Affairs 
  
 
@@ -92,4 +94,10 @@ Avoid general or textbook-style vague wording.
 Format as a numbered list.
 
 Terms:  
+```
+
+# For Category Wise Mapping of GA Questions
+
+```
+The GA file consists of general awareness questions asked in the RBI Grade B examination for the past 6 years, while the AC Content Page consists of broad topic wise classification of questions. I want you to map each question to its respective category and tell me how many questions are asked from each category each year. Make a table. And if there are no questions asked from a certain category skip it. The first column should contain the categories from the AC Content Page file and the rest should contain years.
 ```
