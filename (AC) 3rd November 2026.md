@@ -75,7 +75,32 @@ tags:
 > 
 >
 
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=24,0,26,34&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.25]]
+> > What? World Wrestling Championships 2026
+> 
+>
+
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=52,0,54,10&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.25]]
 > > Host: Kazakhstan
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=58,0,62,19&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.25]]
+> > Top 3: USA, Iran, Russia.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=155,53,155,71&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.24]]
+> > India Won 4 Medals and ranked 6th.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=159,1,162,44&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.26]]
+> > What? Nominations to 2030 Common Wealth Games (CWG) Organising Committee
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=172,0,175,29&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.26]]
+> > Athlete Representatives: Rahul Dravid and Saina Nehwal
 > 
 > 
