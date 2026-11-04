@@ -9,7 +9,7 @@
 
 ---
 
-> 🗓️Daily Affairs Cloud: [[(AC) 1st November 2026]]
+> 🗓️Daily Affairs Cloud: [[(AC) 1st & 2nd November 2026]]
 
 # Newspaper Articles
 
