@@ -23,6 +23,6 @@
 
 # Today's Agenda
 
-- [ ] Today's Scheme: 
+- [ ] Today's Scheme: [[PM Viksit Bharat Rozgar Yojana (PMVBRY)]]
 
 ---
