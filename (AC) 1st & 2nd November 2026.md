@@ -131,4 +131,14 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=249,20,265,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
 > > Indian Space Research Organisation (ISRO) successfully launched its next-generation navigation satellite (NVS-03)
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=35,6,42,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.25]]
+> > Indian Space Research Organisation (ISRO): Chairman- V Narayanan
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=176,0,194,24&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.25]]
+> > National Unity Day or Rashtriya Ekta Diwas is observed annually across India on 31 October to commemorate the birth anniversary of Sardar Vallabhbhai Patel
+> 
 > 
