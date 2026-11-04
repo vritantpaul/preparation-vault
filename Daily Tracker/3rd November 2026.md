@@ -24,6 +24,6 @@
 
 # Today's Agenda
 
-- [ ] Today's Scheme: 
+- [ ] Today's Scheme: [[VB-G RAM G]]
 
 ---
