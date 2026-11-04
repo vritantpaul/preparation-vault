@@ -102,5 +102,33 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=79,0,80,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
 > > Upstox Receives SEBI Approval to Operate as Online Bond Platform Provider
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=153,0,154,20&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.22]]
+> > IREDA Appoints Jatin Kumar Nayak as Chairman and Managing Director
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=156,24,160,12&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.22]]
+> > Indian Renewable Energy Development Agency Limited (IREDA)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=130,0,143,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
+> > ✓ What? Appointment of Next Vice Chief of the Air Staff ✓ Who? Air Marshal Inderpal Singh Walia
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=109,0,118,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
+> > of the Indian Air Force (IAF)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=279,3,285,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
+> > Satish Dhawan Space Centre (SDSC), Sriharikota, Andhra Pradesh (AP)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=249,20,265,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
+> > Indian Space Research Organisation (ISRO) successfully launched its next-generation navigation satellite (NVS-03)
 > 
 > 
