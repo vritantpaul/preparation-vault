@@ -13,4 +13,14 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=16&selection=156,0,163,1&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.16]]
 > > 74th Foundation Day celebrations of Employees’ Provident Fund Organisation (EPFO)
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=148,0,157,13&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.17]]
+> > Employees’ Provident Fund Organisation (EPFO): Central Provident Fund Commissioner (CPFC)- Ramesh Krishnamurthi
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=208,0,208,87&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.18]]
+> > SEBI Extends KYC Review Periodicity to 8 Years for Eligible Foreign Portfolio Investors
+> 
 > 
