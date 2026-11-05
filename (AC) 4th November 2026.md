@@ -16,4 +16,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=121,0,129,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.20]]
 > > ✓ CoP18 to CBD: Quito, Ecuador (in 2028).
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=130,0,136,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.21]]
+> > Biennial Event: The members of the CoP to the CBD meet every two years (biennially) to review the progress of the convention.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=161,0,163,61&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.21]]
+> > Key Protocol: KMGBF was established during COP15 held in Montreal, Canada in 2022
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=59,14,61,46&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.20]]
+> > Kunming–Montreal Global Biodiversity Framework (KMGBF)
+> 
 > 
