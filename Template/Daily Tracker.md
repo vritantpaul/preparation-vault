@@ -29,6 +29,10 @@ tR += `[[${newFileName}]]`;
 
 - [ ] 
 
+<center>***</center>
+
+> 📅[[(BS) <% tp.date.now("MMMM") %>]]
+
 ---
 
 # Today's Agenda
