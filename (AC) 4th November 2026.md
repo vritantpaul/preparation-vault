@@ -44,4 +44,17 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=211,0,216,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.22]]
 > > Member Nations:11 countries, including Timor-Leste, which joined in 2025
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=251,22,284,20&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.22]]
+> > Securities and Exchange Board of India (SEBI) issued frameworks allowing Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs), to issue Depository Receipts (DRs) backed by their units and list them on exchanges at the GIFT City.
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=288,0,297,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.22]]
+> > The SEBI also reduced the Offer for Sale (OFS) cooling-off period from twelve weeks to eight weeks for illiquid private listed InvITs.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=84,0,102,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.24]]
+> > Fibe, a digital lending platform, launched UPI payments on its application (app) after receiving the Third-Party Application Provider (TPAP) approval from the NPCI.
+> 
 > 
