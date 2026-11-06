@@ -447,5 +447,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "pdf-plus:toggle-auto-copy": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }
