@@ -77,4 +77,20 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=189,0,195,42&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.29]]
 > >  P. V. Sindhu became the first Indian woman to win the Hylo Open women’s singles title
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=31&selection=213,1,230,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.31]]
+> > (UNESCO) observes the International Day for Biosphere Reserves (BR) or World Biosphere Reserve Day globally every year on 3 November to promote biodiversity conservation and sustainable development
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=32&selection=46,0,52,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.32]]
+> > ✓ First Observed: 3 November 2022
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=32&selection=62,0,67,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.32]]
+> > ✓ India’s BR: 18 Biosphere Reserves (BRs) (13 under UNESCO’s World Network of Biosphere Reserve (WNBR))
+> 
+>
+
