@@ -14,8 +14,8 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Sebi cuts of cool off period.pdf]]
-- [ ] [[Razorpay gets license.pdf]]
+- [x] [[Sebi cuts of cool off period.pdf]]
+- [x] [[Razorpay gets license.pdf]]
 - [ ] [[CDSCO mandate.pdf]]
 - [ ] [[TRAI consumer complaint rules.pdf]]
 
