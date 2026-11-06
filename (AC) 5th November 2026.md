@@ -68,4 +68,14 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=42,0,54,2&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
 > > ✓ Winner: India topped the medal tally ✓ Total Medals:14
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=193,0,206,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
+> > ✓ What? World Tsunami Awareness Day 2026(11th) ✓ When? November 5, 2026
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=208,0,214,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
+> > ✓ 2026 Theme: “Be Tsunami Ready: Resilience Starts With You
+> 
 > 
