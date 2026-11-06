@@ -15,8 +15,8 @@
 ---
 # Newspaper Articles
 
-- [ ] [[AI security audit.pdf]]
-- [ ] [[Equitas SFB appointment.pdf]]
+- [x] [[AI security audit.pdf]]
+- [x] [[Equitas SFB appointment.pdf]]
 - [ ] [[RBI sets up consultation panel.pdf]]
 - [ ] [[Scheme for lithium and nickel plants.pdf]]
 - [ ] [[Viability gap funding scheme.pdf]]
@@ -31,3 +31,8 @@
 - [ ] Today's Scheme: 
 
 ---
+
+> [!PDF|note] [[AI security audit.pdf#page=1&selection=36,25,36,26&color=note|AI security audit, p.1]]
+> > Cert-In within six hours.
+> 
+> 
