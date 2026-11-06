@@ -19,7 +19,7 @@
 - [x] [[NSEIX extends trading hours.pdf]]
 - [ ] [[RBI dy guv.pdf]]
 - [ ] [[RBI launches surveys.pdf]]
-- [ ] [[Women in managerial roles.pdf]]
+- [x] [[Women in managerial roles.pdf]]
 
 ---
 
