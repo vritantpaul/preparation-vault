@@ -18,7 +18,7 @@
 - [ ] [[A relook at food subsidy.pdf]]
 - [x] [[NSEIX extends trading hours.pdf]]
 - [ ] [[RBI dy guv.pdf]]
-- [ ] [[RBI launches surveys.pdf]]
+- [x] [[RBI launches surveys.pdf]]
 - [x] [[Women in managerial roles.pdf]]
 
 ---

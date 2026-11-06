@@ -10,6 +10,6 @@
 \> Newspaper Articles:
 
 1. [[Women in managerial roles.pdf]]
-	- [[(Highlights) Women in Managerial Roles]]
+	- [[(HL) Women in Managerial Roles]]
 
 ---
