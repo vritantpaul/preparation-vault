@@ -17,7 +17,7 @@
 - [x] [[Sebi cuts of cool off period.pdf]]
 - [x] [[Razorpay gets license.pdf]]
 - [ ] [[CDSCO mandate.pdf]]
-- [ ] [[TRAI consumer complaint rules.pdf]]
+- [x] [[TRAI consumer complaint rules.pdf]]
 
 ---
 
