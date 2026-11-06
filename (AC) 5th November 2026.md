@@ -28,4 +28,44 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=98,1,108,4&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.22]]
 > > (IIT-D) was India’s highest-ranked institution at 66th
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=86,0,107,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.24]]
+> > (IRDAI) directed general insurers to implement a four-layer motor insurance policy structure for private cars and two-wheelers from 15 December 2026
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=84,0,93,12&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.25]]
+> > The processing fee for applications seeking regulatory approval for the transfer of shares in an insurance company has been reduced from Rs 50 lakhs to Rs 10 lakhs,
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=111,0,115,55&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.25]]
+> > The IRDAI has tightened rules governing shares issued to employees of insurance companies under Employee Stock Option Plans (ESOPs) and also reduced the share transfer approvals fees. Share Transfer Rules: Prior approval is required when shareholdings cross specified thresholds of 5%, 10%, 25%, 50% or 75%, subject to applicable conditions.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=182,0,195,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.25]]
+> > About Insurance Regulatory and Development Authority of India (IRDAI): IRDAI was constituted in 1999 and was incorporated as a statutory body in April, 2000. Chairperson – Ajay Seth
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=204,0,206,17&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.25]]
+> > SEBI Signs MoU with Digital India BHASHINI Division to Expand Regional-Language Services
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=299,0,302,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.29]]
+> > What? 46th International Tammer Boxing Tournament.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=26,0,32,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
+> > ✓ Where? Finland.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=42,0,54,2&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
+> > ✓ Winner: India topped the medal tally ✓ Total Medals:14
+> 
 > 
