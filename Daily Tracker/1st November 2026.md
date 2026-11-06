@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [x] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [ ] Affairs Cloud Previous Day PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
