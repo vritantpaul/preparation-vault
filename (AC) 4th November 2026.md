@@ -57,4 +57,24 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=84,0,102,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.24]]
 > > Fibe, a digital lending platform, launched UPI payments on its application (app) after receiving the Third-Party Application Provider (TPAP) approval from the NPCI.
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=196,0,215,11&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.24]]
+> > Razorpay Payments Private Limited received the final Payment Service Provider (PSP) licence from the International Financial Services Centres Authority (IFSCA) to operate from GIFT City.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=129,0,141,1&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.29]]
+> > ✓ What? Hylo Open 2026 badminton tournament ✓ Host City: Saarbrucken, Germany
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=163,0,175,52&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.29]]
+> > ✓ Men’s Singles Winner: Lakshya Sen (India) Defeated Jonatan Christie (Indonesia) ✓ Women’s Singles Winner: PV Sindhu (India) Defeated Line Kjærsfeldt (Denmark)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=189,0,195,42&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.29]]
+> >  P. V. Sindhu became the first Indian woman to win the Hylo Open women’s singles title
+> 
 > 
