@@ -9,8 +9,7 @@
 
 <center>***</center>
 
-> 📆Weekly PIB: [[(PIB) November Week 45]]
-> 🗓️Daily Affairs Cloud: [[(AC) 3rd November 2026]]
+> 🗓️Daily Affairs Cloud: [[GA - 3rd November 2026]]
 
 ---
 # Newspaper Articles

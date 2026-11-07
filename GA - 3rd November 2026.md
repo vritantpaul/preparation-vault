@@ -2,8 +2,9 @@
 tags:
   - DailyCA
 ---
-> <u>Source</u>: [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf]]
-> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf">Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf</a>
+> File Link: <a href="obsidian://open?vault=Preparation&file=GA%20-%203rd%20November%202026">GA - 3rd November 2026</a>
+
+# Affairs Cloud
 
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=14&selection=114,20,132,38&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.14]]
 > > Prime Minister (PM) Narendra Modi approved the 1,500 kilometers (km) Northern Bullet Train Corridor, connecting Delhi with Guwahati (Assam) via Siliguri (West Bengal, WB)
@@ -104,5 +105,11 @@ The newly launched initiative by **Employee's Provident Fund (EPFO)** will ena
 
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=172,0,175,29&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.26]]
 > > Athlete Representatives: Rahul Dravid and Saina Nehwal
-> 
-> 
+
+---
+# Business Standard
+
+
+> [!PDF|note] [[NSEIX extends trading hours.pdf#page=1&selection=12,0,41,15&color=note|NSEIX extends trading hours, p.1]]
+> > NSE International Exchange (NSEIX), the GIFT City bourse where GIFT Nifty contracts trade, has extended its overall market operations to 23 hours and 30 minutes,
+
