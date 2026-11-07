@@ -14,9 +14,9 @@
 ---
 # Newspaper Articles
 
-- [ ] [[A relook at food subsidy.pdf]]
+- [ ] [[A relook at food subsidy.pdf]] #Pending
 - [x] [[NSEIX extends trading hours.pdf]]
-- [ ] [[RBI dy guv.pdf]]
+- [x] [[RBI dy guv.pdf]]
 - [x] [[RBI launches surveys.pdf]]
 - [x] [[Women in managerial roles.pdf]]
 
