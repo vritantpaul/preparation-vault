@@ -8,10 +8,6 @@
 - [ ] General Awareness Deck
 - [ ] One Scheme
 
-<center>***</center>
-
-> 📆Weekly PIB: [[(PIB) November Week 45]]
-
 ---
 # Newspaper Articles
 

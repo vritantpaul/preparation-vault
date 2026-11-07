@@ -20,6 +20,8 @@ tags:
 > 
 >
 
+The newly launched initiative by **Employee's Provident Fund (EPFO)** will enable automatic processing and settlement of inoperative EPF accounts with balances up to Rs. 1000.
+
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=208,0,208,87&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.18]]
 > > SEBI Extends KYC Review Periodicity to 8 Years for Eligible Foreign Portfolio Investors
 > 
