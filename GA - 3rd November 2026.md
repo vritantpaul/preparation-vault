@@ -117,3 +117,17 @@ The newly launched initiative by **Employee's Provident Fund (EPFO)** will ena
 
 # PIB
 
+> [!PDF|note] [[Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”.pdf#page=1&selection=10,68,11,58&color=note|Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”, p.1]]
+> > Vigilance Awareness Week 2026 from 26th October to 1st November 2026
+> 
+>
+
+> [!PDF|note] [[Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”.pdf#page=1&selection=12,65,13,24&color=note|Ministry of MSME observes Vigilance Awareness Week 2026 on the Theme of “Probity for Prosperity”, p.1]]
+> > This year’s theme was “Probity for Prosperity”
+> 
+>
+
+> [!PDF|note] [[Launch of “India S&T Scoreboard” on 3rd November 2026 in New Delhi.pdf#page=1&selection=7,0,7,46&color=note|Launch of “India S&T Scoreboard” on 3rd November 2026 in New Delhi, p.1]]
+> > NITI Aayog launched the “India S&T Scoreboard”
+> 
+> 
