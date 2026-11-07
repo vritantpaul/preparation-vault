@@ -92,7 +92,7 @@ tags:
 >
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=19,0,20,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.21]]
-> > About Asian Development Bank (ADB):
+> > About ADB:
 > 
 >
 
@@ -130,12 +130,12 @@ tags:
 >
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=249,20,265,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.23]]
-> > Indian Space Research Organisation (ISRO) successfully launched its next-generation navigation satellite (NVS-03)
+> > ISRO successfully launched its next-generation navigation satellite (NVS-03)
 > 
 >
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=35,6,42,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.25]]
-> > Indian Space Research Organisation (ISRO): Chairman- V Narayanan
+> > ISRO: Chairman- V Narayanan
 > 
 >
 
@@ -165,7 +165,7 @@ tags:
 >
 
 > [!PDF|note] [[AI as force multiplier of PSBs.pdf#page=1&selection=4,12,6,48&color=note|AI as force multiplier of PSBs, p.1]]
-> >  For public-sector banks (PSBs), this could mean sustaining asset growth of around 13.5 per cent annually for the next two decades.
+> >  For PSBs, this could mean sustaining asset growth of around 13.5 per cent annually for the next two decades.
 > 
 >
 
