@@ -113,3 +113,7 @@ The newly launched initiative by **Employee's Provident Fund (EPFO)** will ena
 > [!PDF|note] [[NSEIX extends trading hours.pdf#page=1&selection=12,0,41,15&color=note|NSEIX extends trading hours, p.1]]
 > > NSE International Exchange (NSEIX), the GIFT City bourse where GIFT Nifty contracts trade, has extended its overall market operations to 23 hours and 30 minutes,
 
+> [!PDF|note] [[RBI dy guv.pdf#page=1&selection=337,0,338,31&color=note|RBI dy guv, p.1]]
+> > RBI eases reporting norms for small service exporters and importers
+> 
+> 
