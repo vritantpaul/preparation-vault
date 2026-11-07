@@ -43,13 +43,17 @@ Follow these rules:
 Format: There are two types of format you can use:
 1. BASIC: Create cloze deletion cards like the Basic note type of Anki. For instance,
 Question?<br><br>{{c1::Answer.}}
-Prefer this formatting if the note contain only one card.
+Prefer this formatting style if the note contain only one card.
 
 2. FILL-IN-THE-BLANK: Multiple cloze deletion cards in one note. For instance,
 This is a {{c1::passage}} that contains some {{c2::text}}.
-Prefer this note type if the note contain multiple cards.
+Prefer this formatting style if the note contain multiple cards.
 
-> 
+HTML Styling (Must Adhere):
+1. Use <b>text</b> tags to bold key terms. No need to bold text which is already in cloze deletion
+2. Use <br> for any necessary line breaks (e.g., when listing multiple items) or for BASIC formatting style.
+   
+Output: Output as a .txt file where each line is one note.
 ```
 
 preferably 
