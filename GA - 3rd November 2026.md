@@ -130,4 +130,9 @@ The newly launched initiative by **Employee's Provident Fund (EPFO)** will ena
 > [!PDF|note] [[Launch of “India S&T Scoreboard” on 3rd November 2026 in New Delhi.pdf#page=1&selection=7,0,7,46&color=note|Launch of “India S&T Scoreboard” on 3rd November 2026 in New Delhi, p.1]]
 > > NITI Aayog launched the “India S&T Scoreboard”
 > 
+>
+
+> [!PDF|note] [[India’s first notified Organic Fisheries Cluster under PMMSY; Union minister launched standard operating procedure for Organic Certification of Fisheries in the Northeastern region.pdf#page=3&selection=23,0,29,21&color=note|India’s first notified Organic Fisheries Cluster under PMMSY; Union minister launched standard operating procedure for Organic Certification of Fisheries in the Northeastern region, p.3]]
+> > Soreng District, Sikkim is India’s first Organic Fisheries Cluster launched under the Pradhan Mantri Matsya Sampada Yojana (PMMSY).
+> 
 > 
