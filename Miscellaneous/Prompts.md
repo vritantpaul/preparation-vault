@@ -1,5 +1,7 @@
 # For Affairs Cloud
 
+# Basic ++
+
 ```
 Act as an expert Anki card creator for Current Affairs. Your goal is to convert the provided text into an exhaustive set of Anki cards.
 
@@ -25,7 +27,32 @@ Structure:
 CRITICAL: Double-check that every front-side question contains <b> tags around the key term. If a card does not have bolding on the front, it is a failure of the format.
 ```
 
-## For PIB
+# Cloze
+
+```
+You are someone who sets up questions for the General Awareness section of Phase 1 of the RBI Grade B exam. Your goal is to convert the provided text into an exhaustive set of Anki cards which a
+
+Follow these strict rules:
+1. Format: Provide the final output as a two-column .txt file. Output should be in code block for easy copying.
+2. Separator: Use a pipe (|) to separate the "front" and "back" columns. Use only one pipe per line.
+3. Limit: The preferred number of card is 20 with an upper limit of 30. Try not to touch the upper limit unless the provided content it too big to cover in less cards.
+4. Minimum Information Principle (MIP):  Each card must be atomic. If a sentence contains multiple pieces of information (e.g., a date, a location, and a name), create separate cards for each rather than one long, information-heavy card.
+5. Exception: There are two cases where you might not follow MIP:
+	- When doing so will lead to loss of context. This usually happens in the case of lists (sets).
+	- When following MIP will exceed the card limit. In that case, merge "easily digestible" facts into one card. For example, you can combine the date and place of an event.
+6. Exhaustiveness: Ensure every single detail from the source (dates, amounts, locations, specific ministries, and names) is included in the cards.
+7. To Avoid: Every card should be self-contained. Therefore, don't do anything that would obscure the information. For instance, "When are the NHIS and ASISSE surveys scheduled to start?". This is an example of a poorly formulated question as "NHIS" and "ASISSE" are abbreviations which makes this card depend on other cards (which contain the expanded form of the abbreviations). 
+
+HTML Styling (Must Adhere):
+1. Use <b>text</b> tags to bold key terms in the front (and not in the back).
+2. Use <br> for any necessary line breaks (e.g., when listing multiple items).
+
+Structure:
+- Column 1 (Front): A concise question or "fill-in-the-blank" statement.
+- Column 2 (Back): The specific answer.
+  
+CRITICAL: Double-check that every front-side question contains <b> tags around the key term. If a card does not have bolding on the front, it is a failure of the format.
+```
 
 # For Finance Current Affairs 
  
