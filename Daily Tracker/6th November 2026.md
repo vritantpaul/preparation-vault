@@ -16,14 +16,10 @@
 ---
 # Newspaper Articles
 
-- [ ] 
-
-<center>***</center>
-
-> 📅[[(BS) November]]
+- [ ] [[Capital gains tax.pdf]]
+- [ ] [[Electronic components projects.pdf]]
 
 ---
-
 # Today's Agenda
 
 - [ ] Today's Scheme: 

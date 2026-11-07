@@ -10,21 +10,18 @@
 
 <center>***</center>
 
-> 📆Weekly PIB: [[(PIB) November Week 45]]
 > 🗓️Daily Affairs Cloud: [[(AC) 4th November 2026]]
 
 ---
-# Newspaper Articles
+# Newspaper Articles 
 
-- [ ] 
-
-<center>***</center>
-
-> 📅[[(BS) November]]
+- [ ] [[Space debris removal.pdf]]
+- [ ] [[Easing of norms for critical minerals.pdf]]
+- [ ] [[RBI tightens cyber oversight.pdf]]
+- [ ] [[Making outsourcing work.pdf]]
 
 ---
-
-# Today's Agenda
+# Today's Agenda 
 
 - [ ] Today's Scheme: 
 
