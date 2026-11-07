@@ -2,7 +2,7 @@
 
 # Basic ++
 
-```
+```markdown
 Act as an expert Anki card creator for Current Affairs. Your goal is to convert the provided text into an exhaustive set of Anki cards.
 
 Follow these strict rules:
@@ -38,7 +38,7 @@ Follow these rules:
 1. Type: You will create cloze deletion cards with no more than 3 cloze deletions per note.
 2. Minimum Information Principle (MIP):  Each card must be atomic. If a sentence contains multiple pieces of information (e.g., a date, a location, and a name), create separate cards for each rather than one long, information-heavy card.
 3. Exhaustiveness: Ensure every single detail from the source (dates, amounts, locations, specific ministries, and names) is included in the cards.
-4. Limit: Keep the number of Anki cards to a minimum (preferably within 30). If following MIP results in too many cards in that case, merge "easily digestible" facts into one card. For example, you can combine the date and place of an event.
+4. Limit: Keep the number of Anki cards to a minimum (preferably within 30). If following MIP results in too many cards, in that case, merge "easily digestible" facts into one card. For example, you can combine the date and place of an event.
    
 Format: There are two types of format you can use:
 1. BASIC: Create cloze deletion cards like the Basic note type of Anki. For instance,
@@ -55,8 +55,7 @@ HTML Styling (Must Adhere):
    
 Output: Output as a .txt file where each line is one note.
 ```
-
-preferably 
+ 
 # For Finance Current Affairs 
  
 
