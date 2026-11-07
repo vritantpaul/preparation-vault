@@ -2,13 +2,12 @@
 tags:
   - DailyCA
 ---
-> <u>Source</u>: [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf]]
-> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf">Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf</a>
+> File Link: <a href="obsidian://open?vault=Preparation&file=GA%20-%201st%20%26%202nd%20November%202026">GA - 1st & 2nd November 2026</a>
 
-GA – 1st November 2025
+# Affairs Cloud
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=14&selection=203,6,211,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.14]]
-> > Central Board of Indirect Taxes and Customs (CBIC): Chairman- Vivek Chaturvedi
+> > CBIC: Chairman- Vivek Chaturvedi
 > 
 >
 
@@ -142,5 +141,66 @@ GA – 1st November 2025
 
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=176,0,194,24&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.25]]
 > > National Unity Day or Rashtriya Ekta Diwas is observed annually across India on 31 October to commemorate the birth anniversary of Sardar Vallabhbhai Patel
+
+---
+# Business Standard
+
+
+> [!PDF|note] [[Automatic settlement of small acc.pdf#page=1&selection=126,0,133,14&color=note|Automatic settlement of small acc, p.1]]
+> > Under EPF provisions, an account is classified as inoperative if no contribution is received for a continuous period of three years after a member attains 55 years of age or from the date of retirement, whichever is later.
+
+> [!PDF|note] [[AI as force multiplier of PSBs.pdf#page=1&selection=0,0,1,24&color=note|AI as force multiplier of PSBs, p.1]]
+> > India’s ambition to become a $30 trillion economy by 2047 will require
 > 
+>
+
+> [!PDF|note] [[AI as force multiplier of PSBs.pdf#page=1&selection=3,13,3,28&color=note|AI as force multiplier of PSBs, p.1]]
+> > banking assets 
 > 
+>
+
+> [!PDF|note] [[AI as force multiplier of PSBs.pdf#page=1&selection=3,37,4,11&color=note|AI as force multiplier of PSBs, p.1]]
+> > to grow 12-14 times
+> 
+>
+
+> [!PDF|note] [[AI as force multiplier of PSBs.pdf#page=1&selection=4,12,6,48&color=note|AI as force multiplier of PSBs, p.1]]
+> >  For public-sector banks (PSBs), this could mean sustaining asset growth of around 13.5 per cent annually for the next two decades.
+> 
+>
+
+
+---
+# PIB
+
+
+<a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330810&reg=48&lang=1">Union Home Minister and Minister of Cooperation Shri Amit Shah Flags off ‘Run for Unity’ in New Delhi on 'Rashtriya Ekta Diwas’on the occasion of 151st birth anniversary of Sardar Vallabhbhai Patel</a>
+
+
+ 151st birth anniversary of Sardar Vallabhbhai Patel
+
+ to make the country completely free from drugs by 31 December 2029
+
+
+<a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331390&reg=48&lang=1">Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act</a>
+
+
+ Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act
+
+ Enquiry to be completed within 7 working days and grievances to be resolved within 15 days
+
+Multi-tier grievance redressal mechanism
+
+at the Gram Panchayat, Block and District levels
+
+District Programme Coordinator will oversee grievance redressal at the district level
+
+
+<a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331704&reg=48&lang=1">TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026</a>
+
+
+ TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026
+
+- The amended regulations shall apply to Internet Service Providers having more than ten thousand subscribers as on the last day of the preceding financial year.
+
+- The time limit for filing an appeal following disposal of a complaint has been revised from 30 days to 15 days
