@@ -54,7 +54,7 @@ The newly launched initiative by **Employee's Provident Fund (EPFO)** will ena
 >
 
 > [!PDF|note] [[Toppers-CA-November-3-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=200,18,214,5&color=note|Toppers-CA-November-3-2026-by-AffairsCloud-1-v01, p.21]]
-> > renowned geologist Dinesh Vitthalrao Ganvir officially assumed the charge as the 55th Director General (DG) of the Geological Survey of India (GSI)
+> > renowned geologist Dinesh Vitthalrao Ganvir officially assumed the charge as the Director General (DG) of the Geological Survey of India (GSI)
 > 
 >
 
