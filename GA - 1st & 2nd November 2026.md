@@ -169,6 +169,10 @@ tags:
 > 
 >
 
+> [!PDF|note] [[TRAI consumer complaint rules.pdf#page=1&selection=6,0,36,21&color=note|TRAI consumer complaint rules, p.1]]
+> > Telecom firms may be penalised up to ~20 lakh for improperly handling or disposing of consumer complaints, according to new regulations of the TRAI.
+> 
+>
 
 ---
 # PIB

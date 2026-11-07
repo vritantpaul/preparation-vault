@@ -3,16 +3,6 @@ tags:
   - MonthlyNewspaper
 ---
 
-> [!PDF|note] [[TRAI consumer complaint rules.pdf#page=1&selection=6,0,36,21&color=note|TRAI consumer complaint rules, p.1]]
-> > Telecom firms may be penalised up to ~20 lakh for improperly handling or disposing of consumer complaints, according to new regulations of the TRAI
-> 
->
-
-> [!PDF|note] [[TRAI consumer complaint rules.pdf#page=1&selection=386,0,421,19&color=note|TRAI consumer complaint rules, p.1]]
-> > Penalties:n For improper complaint or appeal disposal:  ~ 1,000 per violation  ~5,000 per instance by appellate authority  Cap of ~20 lakh per circle Failure to submit quarterly performance report:  ~5,000 per report per day for first 15 days  ~20,000 per report per day after 15 days  Cap of ~10 lakh per instance per circle
-> 
->
-
 > [!PDF|note] [[NSEIX extends trading hours.pdf#page=1&selection=12,0,41,15&color=note|NSEIX extends trading hours, p.1]]
 > > NSE International Exchange (NSEIX), the GIFT City bourse where GIFT Nifty contracts trade, has extended its overall market operations to 23 hours and 30 minutes,
 
