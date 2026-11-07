@@ -5,6 +5,8 @@ tags:
 > <u>Source</u>: [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf]]
 > <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf">Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf</a>
 
+GA – 1st November 2025
+
 > [!PDF|note] [[Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01.pdf#page=14&selection=203,6,211,1&color=note|Toppers-CA-November-1-2-2026-by-AffairsCloud-1-v01, p.14]]
 > > Central Board of Indirect Taxes and Customs (CBIC): Chairman- Vivek Chaturvedi
 > 
