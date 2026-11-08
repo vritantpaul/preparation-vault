@@ -2,8 +2,10 @@
 tags:
   - DailyCA
 ---
-> <u>Source</u>: [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf]]
-> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf">Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf</a>
+> File Link: <a href="obsidian://open?vault=Preparation&file=GA%20-%204th%20November%202026">GA - 4th November 2026</a>
+
+
+# Affairs Cloud
 
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=70,17,96,23&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.18]]
 > > the Ministry of Panchayati Raj (MoPR) signed a Memorandum of Understanding (MoU) with Convergence Energy Services Limited (CESL) to develop Electric Vehicle (EV) charging and battery swapping infrastructure on Panchayat-owned land across India
@@ -93,4 +95,25 @@ tags:
 > > ✓ India’s BR: 18 Biosphere Reserves (BRs) (13 under UNESCO’s World Network of Biosphere Reserve (WNBR))
 > 
 >
+
+---
+# Business Standard
+
+
+> [!PDF|note] [[Scheme for lithium and nickel plants.pdf#page=1&selection=4,4,29,7&color=note|Scheme for lithium and nickel plants, p.1]]
+> > Union Cabinet on Wednesday approved a ₹2,814crore support scheme to establish domestic critical mineral processing plants for lithium and nickel,
+> 
+>
+
+> [!PDF|note] [[Scheme for lithium and nickel plants.pdf#page=1&selection=102,0,118,18&color=note|Scheme for lithium and nickel plants, p.1]]
+> > The maximum capital support has been capped at ₹500 crore per beneficiary for lithium plants and ₹900 crore for nickel plants.
+
+
+> [!PDF|note] [[Scheme for lithium and nickel plants.pdf#page=1&selection=59,10,60,26&color=note|Scheme for lithium and nickel plants, p.1]]
+> > scheme, which will run from FY27 to FY31
+> 
+>
+
+> [!PDF|note] [[Scheme for lithium and nickel plants.pdf#page=1&selection=61,0,80,6&color=note|Scheme for lithium and nickel plants, p.1]]
+> > government will provide a capital subsidy of 30 per cent for setting up two lithium processing plants and two nickel processing plants
 

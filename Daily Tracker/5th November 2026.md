@@ -10,7 +10,7 @@
 
 <center>***</center>
 
-> 🗓️Daily Affairs Cloud: [[(AC) 4th November 2026]]
+> 🗓️Daily Affairs Cloud: [[GA - 4th November 2026]]
 
 ---
 # Newspaper Articles 
