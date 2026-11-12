@@ -154,4 +154,12 @@ tags:
 
 # PIB
 
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332483&reg=48&lang=1
+
+Union Cabinet has approved the continuation of the Centrally Sponsored Scheme (CSS) for Fast Track Special Courts (FTSCs), including exclusive POCSO Courts, for a further period of five years till 31.03.2031.
+
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332675&reg=48&lang=1
+
+The First National SARAS Mela 2026 held outside Delhi-NCR concluded at Punnami Ghat, Vijayawada, Andhra Pradesh.
+
 
