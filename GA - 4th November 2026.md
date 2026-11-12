@@ -119,5 +119,19 @@ tags:
 
 > [!PDF|note] [[Viability gap funding scheme.pdf#page=1&selection=6,4,19,9&color=note|Viability gap funding scheme, p.1]]
 > > Union Cabinet on Wednesday approved a ~14,500crore Viability Gap Funding (VGF) scheme to support the development of 92 gigawatthours (Gwh) of grid-scale energy storage capacity over FY27-FY31
+
+> [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=437,0,437,13&color=note|VISTAR scheme, p.1]]
+> > VISTAR scheme
+
+> [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=49,0,58,17&color=note|VISTAR scheme, p.1]]
+> > Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)
+
+> [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=6,0,46,22&color=note|VISTAR scheme, p.1]]
+> > Union Cabinet on Wednesday approved a ~4,371.10 crore scheme to overhaul India's official statistical system, bringing all surveys, data, and economic census work of the Ministry of Statistics and Programme Implementation (Mospi) under one umbrella for five years, spanning from financial year 2026-27 (FY27) to FY31
+> 
+>
+
+> [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=75,0,87,11&color=note|VISTAR scheme, p.1]]
+> > will fund 59 surveys over the 16th Finance Commission cycle (FY27-FY31)
 > 
 > 
