@@ -20,7 +20,7 @@
 - [x] [[Scheme for lithium and nickel plants.pdf]]
 - [x] [[Viability gap funding scheme.pdf]]
 - [x] [[VISTAR scheme.pdf]]
-- [ ] [[Agniveer service period extended.pdf]]
+- [x] [[Agniveer service period extended.pdf]]
 - [ ] [[NPCI subsidiary.pdf]]
 
 ---

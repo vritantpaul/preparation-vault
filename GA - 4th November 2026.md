@@ -144,4 +144,8 @@ tags:
 > [!PDF|note] [[Agniveer service period extended.pdf#page=1&selection=6,0,19,5&color=note|Agniveer service period extended, p.1]]
 > > The tenure of military cadets recruited under the Agnipath policy has been extended by two years
 > 
-> 
+>
+
+> [!PDF|note] [[Agniveer service period extended.pdf#page=1&selection=164,14,192,9&color=note|Agniveer service period extended, p.1]]
+> >  the services would still internally announce the merit lists, based on which the first 25 per cent would be picked to be absorbed full-time for another 15 years, as earlier mandated by the policy. The 75 per cent that would get the two-year extension
+
