@@ -112,3 +112,14 @@ tags:
 
 # PIB
 
+
+<a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333047&reg=48&lang=1">India Pioneers Space Debris Removal; Union Minister Dr. Jitendra Singh Announces Vision of Debris-Free Space by 2030</a>
+
+
+ Vision of Debris-Free Space by 2030
+
+ Cosmoserve Space’s Base 1 facility in Hyderabad for Active Space Debris Removal and in-orbit servicing
+
+ India’s space economy grows to nearly USD 9 billion
+
+Mission EMBRACE, which conducted an in-space test of soft robotic petals in July 2026

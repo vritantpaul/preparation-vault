@@ -1,7 +1,7 @@
 > [[2nd November 2026|⏮️]] | [[4th November 2026|⏭️]]
 # Daily Targets 🎯
 
-- [x] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
