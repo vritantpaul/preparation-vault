@@ -15,8 +15,8 @@
 ---
 # Newspaper Articles 
 
-- [ ] [[Space debris removal.pdf]]
-- [ ] [[Easing of norms for critical minerals.pdf]]
+- [x] [[Space debris removal.pdf]]
+- [x] [[Easing of norms for critical minerals.pdf]]
 - [ ] [[RBI tightens cyber oversight.pdf]]
 - [ ] [[Making outsourcing work.pdf]]
 

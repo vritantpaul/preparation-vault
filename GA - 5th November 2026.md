@@ -82,3 +82,15 @@ tags:
 ---
 # Business Standard
 
+> [!PDF|note] [[Space debris removal.pdf#page=1&selection=4,0,9,29&color=note|Space debris removal, p.1]]
+> > Cosmoserve Space, an Indian startup, unveiled Base 1, India’s first private facility for space debris removal.
+
+> [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=20,22,45,10&color=note|RBI tightens cyber oversight, p.1]]
+> > (RBI) on Thursday issued a consolidated cybersecurity rulebook for all non-bank payment system operators (PSOs). The rulebook also brings annual system audits and third-party automated teller machine (ATM) switch providers under its ambit.
+> 
+>
+
+> [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=46,0,75,22&color=note|RBI tightens cyber oversight, p.1]]
+> > The revised Master Directions on Cyber Resilience and Digital Payment Security Controls apply to entities including the National Payments Corporation of India, card networks, payment aggregators, prepaid payment instrument issuers and white-label ATM operators (WLAOs), among others.
+> 
+> 
