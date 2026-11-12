@@ -1,6 +1,6 @@
 # For Affairs Cloud
 
-# Basic ++
+## Basic ++
 
 ```markdown
 Act as an expert Anki card creator for Current Affairs. Your goal is to convert the provided text into an exhaustive set of Anki cards.

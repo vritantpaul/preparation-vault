@@ -162,4 +162,10 @@ https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332675&reg=48&lang=1
 
 The First National SARAS Mela 2026 held outside Delhi-NCR concluded at Punnami Ghat, Vijayawada, Andhra Pradesh.
 
+https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332733&reg=48&lang=1
 
+17th Conference of the Parties to the Convention on Biological Diversity (CBD COP-17) in Yerevan, Armenia
+
+The event, titled “From Policy to Practice: Advancing India’s Biodiversity Commitments through Innovation, Finance, ABS and OECMs”, was organised by the Ministry of Environment, Forest and Climate Change (MoEFCC), the National Biodiversity Authority (NBA) and the United Nations Development Programme (UNDP).
+
+---
