@@ -21,7 +21,7 @@
 - [x] [[Viability gap funding scheme.pdf]]
 - [x] [[VISTAR scheme.pdf]]
 - [x] [[Agniveer service period extended.pdf]]
-- [ ] [[NPCI subsidiary.pdf]]
+- [x] [[NPCI subsidiary.pdf]]
 
 ---
 

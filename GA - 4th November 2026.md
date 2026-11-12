@@ -3,8 +3,6 @@ tags:
   - DailyCA
 ---
 > File Link: <a href="obsidian://open?vault=Preparation&file=GA%20-%204th%20November%202026">GA - 4th November 2026</a>
-
-
 # Affairs Cloud
 
 > [!PDF|note] [[Toppers-CA-November-4-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=70,17,96,23&color=note|Toppers-CA-November-4-2026-by-AffairsCloud-1-v01, p.18]]
@@ -148,4 +146,12 @@ tags:
 
 > [!PDF|note] [[Agniveer service period extended.pdf#page=1&selection=164,14,192,9&color=note|Agniveer service period extended, p.1]]
 > >  the services would still internally announce the merit lists, based on which the first 25 per cent would be picked to be absorbed full-time for another 15 years, as earlier mandated by the policy. The 75 per cent that would get the two-year extension
+
+
+(NPCI) has formed NPCI Tech Solutions Limited (NTSL), a wholly owned subsidiary that will serve as the technology and innovation arm of the NPCI group, and appointed Vishal Kanvaty as its managing director and chief executive officer (MD & CEO).
+
+---
+
+# PIB
+
 
