@@ -2,8 +2,9 @@
 tags:
   - DailyCA
 ---
-> <u>Source</u>: [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf]]
-> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf">Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf</a>
+> File Link: <a href="obsidian://open?vault=Preparation&file=GA%20-%205th%20November%202026">GA - 5th November 2026</a>
+
+# Affairs Cloud
 
 > [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=19&selection=51,0,83,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.19]]
 > > ✓ What? Exercise Tiger Triumph-2026 ✓ Participating Countries: India and USA ✓ Where? Visakhapatnam, AP ✓ Type: Bilateral Tri-Service Humanitarian Assistance and Disaster Relief (HADR) Exercise
@@ -77,5 +78,7 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-5-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=208,0,214,1&color=note|Toppers-CA-November-5-2026-by-AffairsCloud-1-v01, p.30]]
 > > ✓ 2026 Theme: “Be Tsunami Ready: Resilience Starts With You
-> 
-> 
+
+---
+# Business Standard
+
