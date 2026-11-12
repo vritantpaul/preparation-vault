@@ -16,9 +16,9 @@
 
 - [x] [[AI security audit.pdf]]
 - [x] [[Equitas SFB appointment.pdf]]
-- [ ] [[RBI sets up consultation panel.pdf]]
+- [x] [[RBI sets up consultation panel.pdf]]
 - [x] [[Scheme for lithium and nickel plants.pdf]]
-- [ ] [[Viability gap funding scheme.pdf]]
+- [x] [[Viability gap funding scheme.pdf]]
 - [ ] [[VISTAR scheme.pdf]]
 - [ ] [[Agniveer service period extended.pdf]]
 - [ ] [[NPCI subsidiary.pdf]]
@@ -30,3 +30,4 @@
 - [ ] Today's Scheme: 
 
 ---
+

@@ -117,3 +117,7 @@ tags:
 > [!PDF|note] [[Scheme for lithium and nickel plants.pdf#page=1&selection=61,0,80,6&color=note|Scheme for lithium and nickel plants, p.1]]
 > > government will provide a capital subsidy of 30 per cent for setting up two lithium processing plants and two nickel processing plants
 
+> [!PDF|note] [[Viability gap funding scheme.pdf#page=1&selection=6,4,19,9&color=note|Viability gap funding scheme, p.1]]
+> > Union Cabinet on Wednesday approved a ~14,500crore Viability Gap Funding (VGF) scheme to support the development of 92 gigawatthours (Gwh) of grid-scale energy storage capacity over FY27-FY31
+> 
+> 
