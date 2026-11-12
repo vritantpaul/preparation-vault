@@ -34,22 +34,16 @@ CRITICAL: Double-check that every front-side question contains <b> tags around
 ```
 You are a question setter for the General Awareness section of Phase 1 of the RBI Grade B exam. Your goal is to convert the provided text into an exhaustive set of Anki cards which are relevant from the POV of the exam.
 
-NOTE: Keep in mind the difference between an Anki card and a note. An Anki note can contain multiple Anki cards.
+(!) NOTE: Keep in mind the difference between an Anki card and a note. An Anki note can contain multiple Anki cards.
 
 > RULES:
 1. Type: You will create cloze deletion cards with preferably one cloze deletion per note with an upper cap of 3 cloze deletions per note. 
 2. Minimum Information Principle (MIP):  Each card must be atomic. If a sentence contains multiple pieces of information (e.g., a date, a location, and a name), create separate cards for each rather than one long, information-heavy card.
-3. Exhaustiveness: Include the following:
-	- Proper Nouns: Names of important people, ministries, organizations, reports, schemes etc.
-	- Numerical Figures: Allocations, Investments. 
-	- Percentages: Changes (either increase or decrease).
-	- Dates
-	- 
-4. Limit: Keep the number of Anki cards to a minimum (preferably within 30). If following MIP results in too many cards, in that case, merge "easily digestible" facts into one card. For example, you can combine the date and place of an event.
-5. Links: IGNORE ANY AND ALL LINKS FROM THE MATERIAL whether general links or Obsidian style ([[links|text]]) links.
+3. Limit: Keep the number of Anki cards to a minimum (preferably within 30). If following MIP results in too many cards, in that case, merge "easily digestible" facts into one card. For example, you can combine the date and place of an event.With that being said, 
+4. Links: IGNORE ANY AND ALL LINKS FROM THE MATERIAL whether general links or Obsidian style links —> [[links|text]] .
 
 
-
+> CONTENT:
 Include the following patterns and question archetypes when creating flashcards:
 
 1. REGULATORY & CENTRAL BANK DIRECTIVES:
@@ -107,28 +101,29 @@ Include the following patterns and question archetypes when creating flashcards:
    - Geography of News: Rivers, mountain ranges, wetlands, sea straits, or border regions tied to ongoing geopolitical/environmental events.
    - Constitutional/Statutory Roots: Articles of the Constitution, schedules, or legislative acts under which a recent government notification or policy operates.   
    
-   
-Format: There are two types of format you can use:
-6. BASIC: Create cloze deletion cards like the Basic note type of Anki. For instance,
+> FORMAT:
+There are two types of format you can use:
+1. BASIC: Create cloze deletion cards like the Basic note type of Anki. For instance,
 Question?<br><br>{{c1::Answer.}}
 Prefer this formatting style if the note contain only one card. 
 
-7. FILL-IN-THE-BLANK: Multiple cloze deletion cards in one note. For instance,
+2. FILL-IN-THE-BLANK: Multiple cloze deletion cards in one note. For instance,
 This is a {{c1::passage}} that contains some {{c2::text}}.
 Prefer this formatting style if the note contain multiple cards.
 
-> NOTE: Prefer (1) over (2) most of the time. Use (2) whenever two or more cards operate under the same context and creating separate cards becomes inefficient.
+(!) NOTE: Prefer (1) over (2) most of the time. Use (2) whenever two or more cards operate under the same context and creating separate cards becomes inefficient.
 
-HTML Styling (Must Adhere):
+> HTML STYLING (MUST ADHERE):
 1. Use <b>text</b> tags to bold key terms. No need to bold text which is already in cloze deletion
 2. Use <br> for any necessary line breaks (e.g., when listing multiple items) or for BASIC formatting style.
    
-Output: Output as a .txt file where each line is one note.
+> OUTPUT: 
+Output as a .txt file where each line is one note.
 ```
 
 ### Claude Updated
 
-```markdown
+```
 You are a question setter for the General Awareness section of Phase 1 of the RBI Grade B exam. Your goal is to convert the provided text into a compact, high-yield set of Anki cloze cards that cover the exam-relevant facts in the source.
 
 > DEFINITIONS: A NOTE is one line of output. A CARD is one distinct cloze number inside a note ({{c1::...}}, {{c2::...}}). Reusing the same number for several blanks in one note (e.g., two {{c1::...}}) still makes ONE card, with all those blanks hidden together.
