@@ -7,6 +7,10 @@
 - [ ] General Awareness Deck
 - [ ] One Scheme
 
+<center>***</center>
+
+> 🗓️Daily Affairs Cloud: [[GA - 1st & 2nd November 2026]]
+
 ---
 # Newspaper Articles
 

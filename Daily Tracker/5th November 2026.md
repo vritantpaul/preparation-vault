@@ -17,8 +17,8 @@
 
 - [x] [[Space debris removal.pdf]]
 - [x] [[Easing of norms for critical minerals.pdf]]
-- [ ] [[RBI tightens cyber oversight.pdf]]
-- [ ] [[Making outsourcing work.pdf]]
+- [x] [[RBI tightens cyber oversight.pdf]]
+- [ ] [[Making outsourcing work.pdf]] #Pending 
 
 ---
 # Today's Agenda 

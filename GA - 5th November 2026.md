@@ -93,4 +93,22 @@ tags:
 > [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=46,0,75,22&color=note|RBI tightens cyber oversight, p.1]]
 > > The revised Master Directions on Cyber Resilience and Digital Payment Security Controls apply to entities including the National Payments Corporation of India, card networks, payment aggregators, prepaid payment instrument issuers and white-label ATM operators (WLAOs), among others.
 > 
+>
+
+> [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=154,0,174,1&color=note|RBI tightens cyber oversight, p.1]]
+> > Under the new system audit norms, PSOs must submit an annual audit report within two months of the close of their financial year. 
 > 
+>
+
+> [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=212,0,214,14&color=note|RBI tightens cyber oversight, p.1]]
+> > Open observations must be resolved within a “maximum three months”.
+> 
+>
+
+> [!PDF|note] [[RBI tightens cyber oversight.pdf#page=1&selection=311,10,332,24&color=note|RBI tightens cyber oversight, p.1]]
+> >  It also retains the requirement to impose a minimum 12-hour cooling-off period after a customer changes their registered mobile number or email address.
+
+---
+
+# PIB
+
