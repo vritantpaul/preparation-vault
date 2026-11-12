@@ -45,7 +45,8 @@ You are a question setter for the General Awareness section of Phase 1 of the RB
 
 > CONTENT:
 
-(!) NOTE: When there are two or more pieces of information. You chose the information which is more likely to get asked in the exam. For instance, if a certain ministry has launched a scheme. The name of the scheme is more
+(!) IMPORTNANT: When there are two or more pieces of information, you chose the information which is more likely to get asked in the exam. For instance, if a certain ministry has launched a scheme. The name of the scheme is more important and thus more likely to get asked in the exam, than the ministry which has launched it. Therefore, the scheme name should have the cloze deletion rather than the ministry.
+
 Include the following patterns and question archetypes when creating flashcards:
 
 1. REGULATORY & CENTRAL BANK DIRECTIVES:
