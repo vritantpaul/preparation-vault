@@ -9,7 +9,7 @@ tR += `[[${yesterday}|⏮️]] | [[${tomorrow}|⏭️]]`;
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [ ] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
