@@ -134,4 +134,14 @@ tags:
 > [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=75,0,87,11&color=note|VISTAR scheme, p.1]]
 > > will fund 59 surveys over the 16th Finance Commission cycle (FY27-FY31)
 > 
+>
+
+> [!PDF|note] [[VISTAR scheme.pdf#page=1&selection=105,0,114,1&color=note|VISTAR scheme, p.1]]
+> > The initiative also bankrolls the long-delayed 8th Economic Census
+> 
+>
+
+> [!PDF|note] [[Agniveer service period extended.pdf#page=1&selection=6,0,19,5&color=note|Agniveer service period extended, p.1]]
+> > The tenure of military cadets recruited under the Agnipath policy has been extended by two years
+> 
 > 

@@ -19,7 +19,7 @@
 - [x] [[RBI sets up consultation panel.pdf]]
 - [x] [[Scheme for lithium and nickel plants.pdf]]
 - [x] [[Viability gap funding scheme.pdf]]
-- [ ] [[VISTAR scheme.pdf]]
+- [x] [[VISTAR scheme.pdf]]
 - [ ] [[Agniveer service period extended.pdf]]
 - [ ] [[NPCI subsidiary.pdf]]
 
