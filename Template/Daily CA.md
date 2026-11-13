@@ -15,4 +15,4 @@ if (!currentDate.isValid()) {
     tR += `[[GA - ${previousDate.format("Do MMMM YYYY")}|⏪]] | [[GA - ${nextDate.format("Do MMMM YYYY")}|⏩]]`;
 }
 %>
-> <u>File Link</u>:
+> <u>File Link</u>: [[<% tp.file.title %>]] 
