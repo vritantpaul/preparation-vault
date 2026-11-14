@@ -1,11 +1,12 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "numbered-list"
   ],
   "baseFontSize": 17,
   "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "SN Pro"
+  "textFontFamily": "SN Pro",
+  "showRibbon": true
 }
