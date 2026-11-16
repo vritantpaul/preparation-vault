@@ -5,6 +5,8 @@ tags:
 > [[GA - 9th November 2026|⏪]] | [[GA - 11th November 2026|⏩]]
 > <u>File Link</u>: [[GA - 10th November 2026]]
 
+# Affairs Cloud 
+
 > [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=176,19,183,23&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.17]]
 > >  launch of Semicon 2.0 Web Application Portal under the second phase of the Semicon India Programme
 > 
@@ -62,4 +64,35 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=165,18,184,6&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.27]]
 > > MobiKwik Financial Services Private Limited (MFSPL), wholly-owned subsidiary of One MobiKwik Systems Limited, secured the final Certificate of Registration (CoR) from (RBI) to operate as a (NBFC)
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=28&selection=72,23,84,36&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.28]]
+> > (SBI) inaugurated a new branch of its wholly owned subsidiary, State Bank of India (California) (SBIC Bank), in Frisco, North Dallas, Texas, USA, marking its first physical expansion beyond California
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=21,0,36,13&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.29]]
+> > ✓ What? New President of Paraguay sworn in following impeachment ✓ New President: Pedro Alliana ✓ Succeeded: Santiago Peña
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=125,17,140,8&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.29]]
+> >  Indian diplomat Shivani Gupta was elected unopposed to the United Nations (UN) Advisory Committee on Administrative and Budgetary Questions (ACABQ) for a three-year term from 2027 to 2029.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=24,2,41,6&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.30]]
+> > the Central Government appointed former Supreme Court Judge Justice Rajesh Bindal as Chairperson of the National Company Law Appellate Tribunal (NCLAT) for a five-year tenure (2026–2031).
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=31&selection=76,0,92,8&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.31]]
+> > India successfully completed unmanned trials of the MATSYA-6000 Human Submersible under the Deep Ocean Mission (DOM), as part of the Samudrayaan Project 
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-10-2026-by-AffairsCloud-1-v01.pdf#page=32&selection=169,0,196,11&color=note|Toppers-CA-November-10-2026-by-AffairsCloud-1-v01, p.32]]
+> > Anuj Shrivatri, a 22-year-old International Master (IM) from Madhya Pradesh (MP), became India’s 100th Grandmaster (GM) after winning the 7th ASEAN+ Individual Open Chess Championship in Ozamiz City, Philippines
+
+---
+# Business Standard
 
