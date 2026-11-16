@@ -36,4 +36,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=70,0,70,66&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.23]]
 > > Bahamas Joins International Solar Alliance as 116th Member Country
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=174,0,174,45&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.23]]
+> > About the International Solar Alliance (ISA):
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=178,0,189,37&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.23]]
+> > India and France jointly launched the ISA in 2015.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=202,0,215,26&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.23]]
+> > Towards 1000 Strategy: Aims by 2030 to mobilise USD 1 trillion in solar investments, provide cleanenergy access to 1 billion people, install 1,000 Gigawatt (GW) of solar capacity and mitigate 1 billion tonnes of CO₂ (Carbon-di-oxide) emissions annually.
+> 
 > 
