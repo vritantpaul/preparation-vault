@@ -138,4 +138,19 @@ tags:
 > [!PDF|note] [[Domestic money transfer rules.pdf#page=1&selection=50,0,80,7&color=note|Domestic money transfer rules, p.1]]
 > > For cash-based remittances into bank accounts, walk-in customers at bank branches (not necessarily having an account with the same bank) can transfer up to ₹50,000 in cash through the National Electronic Funds Transfer (NEFT) system.
 > 
+>
+
+> [!PDF|note] [[Domestic money transfer rules.pdf#page=1&selection=81,0,100,20&color=note|Domestic money transfer rules, p.1]]
+> > Banks can also allow such customers to transfer funds through business correspondents (BCs), ATMs and other permitted channels, subject to a limit of ₹5,000 per transaction and a monthly cap of ₹25,000 per remitter
+> 
+>
+
+> [!PDF|note] [[Domestic money transfer rules.pdf#page=1&selection=101,0,144,1&color=note|Domestic money transfer rules, p.1]]
+> > Under the directions, banks can facilitate cash payouts from customers’ accounts to beneficiaries who do not have bank accounts through ATMs, BCs or other authorised payment channels. Such transfers are capped at ₹10,000 per transaction, subject to a monthly ceiling of ₹25,000 per beneficiary.
+> 
+>
+
+> [!PDF|note] [[Ban on lithium ion battery black mass exports.pdf#page=1&selection=2,0,13,8&color=note|Ban on lithium ion battery black mass exports, p.1]]
+> > Govt bans lithium-ion battery black mass exports to boost recycling industry
+> 
 > 

@@ -15,10 +15,10 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Domestic money transfer rules.pdf]]
-- [ ] [[Stand-Up India scheme extended.pdf]]
-- [ ] [[Ban on lithium ion battery black mass exports.pdf]]
-- [ ] [[Micro units credit scheme extended.pdf]]
+- [x] [[Domestic money transfer rules.pdf]]
+- [x] [[Stand-Up India scheme extended.pdf]]
+- [x] [[Ban on lithium ion battery black mass exports.pdf]]
+- [x] [[Micro units credit scheme extended.pdf]]
 
 
 ---
