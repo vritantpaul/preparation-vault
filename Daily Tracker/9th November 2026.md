@@ -15,9 +15,9 @@
 ---
 # Newspaper Articles
 
-- [ ] [[RBI extends supersession.pdf]]
-- [ ] [[Sarvam appointment.pdf]]
-- [ ] [[Coal gasification scheme.pdf]]
+- [x] [[RBI extends supersession.pdf]]
+- [x] [[Sarvam appointment.pdf]]
+- [x] [[Coal gasification scheme.pdf]]
 
 ---
 
@@ -26,3 +26,4 @@
 - [ ] Today's Scheme: 
 
 ---
+

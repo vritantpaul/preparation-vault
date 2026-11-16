@@ -114,7 +114,3 @@ tags:
 > > Symbol: Lavender ribbon.
 
 
----
-
-# Business Standard
-
