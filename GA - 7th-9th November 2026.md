@@ -38,4 +38,12 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=19&selection=173,0,208,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.19]]
 > > ✓ What? Launch of Vayo Samman Rashtriya Abhiyan. ✓ Nature: National Intergenerational Bonding Campaign.  ✓ Scheme: Under Atal Vayo Abhyuday Yojana (AVYAY).
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=181,0,201,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.20]]
+> > ✓ What? Release of Commemorative Coin ✓ Honouring: 250th Birth Anniversary of Muthuswami Dikshitar
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=80,0,93,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.21]]
+> > ✓ What? Implementation Agreement for road freight decarbonisation ✓ Entities: NITI Aayog and GIZ GmbH (Germany)
+> 
 > 
