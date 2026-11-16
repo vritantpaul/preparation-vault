@@ -46,4 +46,24 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=80,0,93,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.21]]
 > > ✓ What? Implementation Agreement for road freight decarbonisation ✓ Entities: NITI Aayog and GIZ GmbH (Germany)
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=89,0,89,93&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.22]]
+> > Ministry of Culture Sign MoU with Google Arts & Culture to Digitise India’s Cultural Heritage
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=98,0,118,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.24]]
+> > (UNESCO) inscribed three major Indian works Kalhana’s Rajatarangini, the Mahabharata and Kautilya’s Arthashastra in its Memory of the World Asia-Pacific (MOWCAP) Regional Register
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=122,73,134,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.24]]
+> > taking India’s total inscriptions in the Asia-Pacific Regional Register increased to six
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=163,0,172,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.24]]
+> > 11th session of MOWCAP ✓ Where? Jakarta, Indonesia
+> 
 > 
