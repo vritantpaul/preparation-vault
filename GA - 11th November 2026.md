@@ -5,6 +5,8 @@ tags:
 > [[GA - 10th November 2026|⏪]] | [[GA - 12th November 2026|⏩]]
 > <u>File Link</u>: [[GA - 11th November 2026]] 
 
+# Affairs Cloud
+
 > [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=15&selection=33,0,67,3&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.15]]
 > > India was re-elected as the President of the International Solar Alliance (ISA) for the 2026– 2028 term, marking its third consecutive term, while France was re-elected as the Co-President of the ISA
 
@@ -70,5 +72,70 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=254,0,260,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.25]]
 > > ✓ Winner: Lando Norris (McLaren)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=28&selection=166,0,182,20&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.28]]
+> > National Legal Services Day (NLSD) is observed annually across India on 9 November to commemorate the enforcement of the Legal Services Authorities Act, 1987, on 9 November 1995
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=29&selection=252,0,262,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.29]]
+> > World Science Day for Peace and Development is observed annually across the globe on 10 November,
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=29,0,33,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.30]]
+> > 2026 Theme: “Common Ground Through Science Diplomacy
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=31&selection=27,0,34,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.31]]
+> > National Entrepreneurship Day is observed annually across India on 9 November
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=31&selection=92,0,97,52&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.31]]
+> > India’s Ranking: Third-largest startup ecosystem globally after USA & China
+
+---
+
+# Business Standard
+
+> [!PDF|note] [[Stand-Up India scheme extended.pdf#page=1&selection=8,4,17,19&color=note|Stand-Up India scheme extended, p.1]]
+> > Union Cabinet approved the continuation of the Stand-Up India scheme for five years till March 31, 2031
+
+> [!PDF|note] [[Stand-Up India scheme extended.pdf#page=1&selection=24,15,34,11&color=note|Stand-Up India scheme extended, p.1]]
+> > also approved a credit guarantee corpus of ~4,111 crore to support lending under the scheme.
+> 
+>
+
+> [!PDF|note] [[Stand-Up India scheme extended.pdf#page=1&selection=73,0,82,26&color=note|Stand-Up India scheme extended, p.1]]
+> > Under the scheme, eligible women and SC/ST entrepreneurs can avail loans ranging from above ~10 lakh to ~1 crore for setting up greenfield enterprises. 
+> 
+>
+
+> [!PDF|note] [[Stand-Up India scheme extended.pdf#page=1&selection=96,24,99,23&color=note|Stand-Up India scheme extended, p.1]]
+> > Under the scheme, the credit guarantee coverage is set at 85 per cent of the loan amount
+> 
+>
+
+> [!PDF|note] [[Micro units credit scheme extended.pdf#page=1&selection=7,4,23,28&color=note|Micro units credit scheme extended, p.1]]
+> > Union Cabinet approved the continuation of the Credit Guarantee Fund for Micro Units (CGFMU) for five years under the Pradhan Mantri Mudra Yojana (PMMY). The Cabinet also approved a corpus of ~5,000 crore to facilitate loans under the scheme.
+> 
+>
+
+> [!PDF|note] [[Micro units credit scheme extended.pdf#page=1&selection=24,0,38,12&color=note|Micro units credit scheme extended, p.1]]
+> > “The scheme provides credit guarantee coverage to the Lending Institutions through National Credit Guarantee Trustee Company Limited (NCGTC) against default risk,”
+> 
+>
+
+> [!PDF|note] [[Domestic money transfer rules.pdf#page=1&selection=4,0,6,14&color=note|Domestic money transfer rules, p.1]]
+> > RBI consolidates domestic money transfer rules
+> 
+>
+
+> [!PDF|note] [[Domestic money transfer rules.pdf#page=1&selection=50,0,80,7&color=note|Domestic money transfer rules, p.1]]
+> > For cash-based remittances into bank accounts, walk-in customers at bank branches (not necessarily having an account with the same bank) can transfer up to ₹50,000 in cash through the National Electronic Funds Transfer (NEFT) system.
 > 
 > 
