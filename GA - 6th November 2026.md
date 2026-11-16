@@ -66,4 +66,9 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=108,0,128,50&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.25]]
 > > Under the amended regulations, AD banks must enter details of service imports in the Import Data Processing and Monitoring System (IDPMS) within five working days of receiving information, subject to the following conditions: • The importer is not a resident individual (RI) • The invoice or contract value exceeds Rs 10 lakhs.
 > 
-> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=211,0,215,5&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.26]]
+> > SEBI has directed the intermediaries to upload completed KYC records of overseas investors to KYC Regulating Agencies (KRAs) within 3 working days.
+
+
