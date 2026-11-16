@@ -51,4 +51,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=202,0,215,26&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.23]]
 > > Towards 1000 Strategy: Aims by 2030 to mobilise USD 1 trillion in solar investments, provide cleanenergy access to 1 billion people, install 1,000 Gigawatt (GW) of solar capacity and mitigate 1 billion tonnes of CO₂ (Carbon-di-oxide) emissions annually.
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=34,0,39,1&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.25]]
+> > The RBI introduced new foreign exchange reporting regulations for export and import of goods and services effective from 1 October 2026.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=65,0,96,1&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.25]]
+> > Individuals: Resident individuals exporting services will be deemed to have submitted the EDF once they provide the required payment information to their authorised dealer (AD) bank for crediting the inward remittance. Non-Individuals: Non-individual exporters will receive similar treatment for service export receipts of up to Rs 10 lakhs.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=108,0,128,50&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.25]]
+> > Under the amended regulations, AD banks must enter details of service imports in the Import Data Processing and Monitoring System (IDPMS) within five working days of receiving information, subject to the following conditions: • The importer is not a resident individual (RI) • The invoice or contract value exceeds Rs 10 lakhs.
+> 
 > 
