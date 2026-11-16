@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -10,17 +10,14 @@
 
 <center>***</center>
 
-> 📆Weekly PIB: [[(PIB) November Week 46]]
-> 🗓️Daily Affairs Cloud: [[(AC) 8th November 2026]]
+> 🗓️Daily Affairs Cloud: [[GA - 7th-9th November 2026]]
 
 ---
 # Newspaper Articles
 
-- [ ] 
-
-<center>***</center>
-
-> 📅[[(BS) November]]
+- [ ] [[RBI extends supersession.pdf]]
+- [ ] [[Sarvam appointment.pdf]]
+- [ ] [[Coal gasification scheme.pdf]]
 
 ---
 
