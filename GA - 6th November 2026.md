@@ -106,5 +106,6 @@ tags:
 
 > [!PDF|note] [[Electronic components projects.pdf#page=1&selection=133,0,146,7&color=note|Electronic components projects, p.1]]
 > > ~1.27 trillion India Semiconductor Mission
-> 
-> 
+
+
+---

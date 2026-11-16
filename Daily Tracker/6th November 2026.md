@@ -15,7 +15,7 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Capital gains tax.pdf]]
+- [ ] [[Capital gains tax.pdf]] #Pending 
 - [x] [[Electronic components projects.pdf]]
 
 ---
