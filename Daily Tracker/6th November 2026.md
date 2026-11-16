@@ -16,7 +16,7 @@
 # Newspaper Articles
 
 - [ ] [[Capital gains tax.pdf]]
-- [ ] [[Electronic components projects.pdf]]
+- [x] [[Electronic components projects.pdf]]
 
 ---
 # Today's Agenda

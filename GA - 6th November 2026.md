@@ -5,6 +5,8 @@ tags:
 > [[GA - 5th November 2026|⏪]] | [[GA - 7th November 2026|⏩]]
 > <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=GA%20-%206th%20November%202026">GA - 6th November 2026</a>
 
+# Affairs Cloud
+
 > [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=16&selection=135,0,140,12&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.16]]
 > > New Statistical Indices Under VISTAR Scheme: Headline Index of Services Production and Index of Unincorporated Sector Enterprises.
 
@@ -71,4 +73,38 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=211,0,215,5&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.26]]
 > > SEBI has directed the intermediaries to upload completed KYC records of overseas investors to KYC Regulating Agencies (KRAs) within 3 working days.
 
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=60,18,68,6&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.27]]
+> > the National Payments Corporation of India (NPCI), launched NPCI Tech Solutions Limited (NTSL)
+> 
+>
 
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=74,6,86,37&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.27]]
+> > NTSL has become the 4th wholly-owned subsidiary of NPCI, after NPCI International Payments Limited (NIPL); NPCI Bharat BillPay Limited (NBBL); and NPCI Bharat Interface for Money (BHIM) Services Limited (NBSL).
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=107,0,109,14&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.27]]
+> > MD & CEO: Vishal Kanvaty
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=174,18,184,1&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.27]]
+> > researchers from Dhanamanjuri University, Imphal, Manipur, identified a new species of freshwater catfish named ‘Exostoma nasibarbatum’ in the Bupal stream of Chandel district, Manipur,
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-6-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=225,0,227,16&color=note|Toppers-CA-November-6-2026-by-AffairsCloud-1-v01, p.27]]
+> > Taxonomy: Sisoridae family
+
+---
+# Business Standard
+
+> [!PDF|note] [[Electronic components projects.pdf#page=1&selection=7,0,17,15&color=note|Electronic components projects, p.1]]
+> > The government on Friday approved 12 new applications under the ~40,000 crore Electronics Component Manufacturing scheme (ECMS), taking the total number of proposed electronics component manufacturing units in the country to 118.
+> 
+>
+
+> [!PDF|note] [[Electronic components projects.pdf#page=1&selection=133,0,146,7&color=note|Electronic components projects, p.1]]
+> > ~1.27 trillion India Semiconductor Mission
+> 
+> 
