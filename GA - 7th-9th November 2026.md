@@ -66,4 +66,49 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=163,0,172,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.24]]
 > > 11th session of MOWCAP ✓ Where? Jakarta, Indonesia
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=191,0,191,75&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.25]]
+> > QUAD Naval Exercise MALABAR 2026 Begins in Japan, INS Sahyadri Participates
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=170,0,181,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.26]]
+> > About Indian Navy (IN): Chief of Naval Staff (CNS) – Admiral Krishna Swaminathan
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=135,0,148,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.27]]
+> > ✓ What? Revision of NPS scheme naming and pension fund display rules ✓ Issued By: PFRDA
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=164,0,169,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.27]]
+> > ✓ New Naming Format: Pension Fund Abbreviation + NPS + Unique Scheme Name
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=28&selection=136,0,144,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.28]]
+> > About Pension Fund Regulatory and Development Authority (PFRDA) Chairperson – Sivasubramanian Ramann
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=80,17,99,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.30]]
+> >  researchers discovered Disporum kamakhasiense, a new plant species of perennial flowering herb belonging to the Colchicaceae family, in the forests of Assam and Meghalaya
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=204,0,204,68&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.30]]
+> > Men’s Asian Champions Trophy 2026: Indian Hockey Team Defeats Japan 
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=32&selection=139,0,150,20&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.32]]
+> > India observes National Cancer Awareness Day (NCAD) annually on 7 November 
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01.pdf#page=32&selection=216,0,219,1&color=note|Toppers-CA-November-7-9-2026-by-AffairsCloud-1-v01, p.32]]
+> > Symbol: Lavender ribbon.
+> 
 > 
