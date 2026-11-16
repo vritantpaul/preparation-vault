@@ -98,5 +98,5 @@ tags:
 
 > [!PDF|note] [[Medical device PLI extended.pdf#page=1&selection=7,20,16,13&color=note|Medical device PLI extended, p.1]]
 > > Extension of the PLI scheme to promote domestic manufacturing of medical devices by eight years, until 2035-36
-> 
-> 
+
+---

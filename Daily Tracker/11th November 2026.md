@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud Previous Day PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -10,17 +10,16 @@
 
 <center>***</center>
 
-> 📆Weekly PIB: [[(PIB) November Week 46]]
-> 🗓️Daily Affairs Cloud: [[(AC) 10th November 2026]]
+> 🗓️Daily Affairs Cloud: [[GA - 11th November 2026]]
 
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[Domestic money transfer rules.pdf]]
+- [ ] [[Stand-Up India scheme extended.pdf]]
+- [ ] [[Ban on lithium ion battery black mass exports.pdf]]
+- [ ] [[Micro units credit scheme extended.pdf]]
 
-<center>***</center>
-
-> 📅[[(BS) November]]
 
 ---
 
@@ -29,3 +28,4 @@
 - [ ] Today's Scheme: 
 
 ---
+

@@ -18,7 +18,7 @@
 - [x] [[Data drive.pdf]]
 - [x] [[Foreign investors return.pdf]]
 - [x] [[Medical device PLI extended.pdf]]
-- [ ] [[IRDAI forms two working groups.pdf]]
+- [x] [[IRDAI forms two working groups.pdf]]
 
 ---
 
