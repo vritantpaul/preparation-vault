@@ -36,4 +36,39 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=73,0,90,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.18]]
 > > ✓ What? 15th India-Oman bilateral maritime exercise Naseem Al Bahr (Sea Breeze) ✓ Where? Muscat, Oman
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=20&selection=70,18,88,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.20]]
+> > Indian Overseas Bank (IOB) launched its mobile application(app), enabling customers to make transactions using India’s Central Bank Digital Currency (CBDC)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=109,6,145,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.23]]
+> > Indian Olympic Association (IOA) elected PV Sindhu (Badminton) as Chairperson of its Athletes’ Commission for the 2026–2030 term.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=149,0,166,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.23]]
+> > Harmanpreet Singh (Hockey)was elected Vice-Chairperson for the same term.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=41,22,67,17&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.24]]
+> > Indian Air Force (IAF)’s Russian-origin Ilyushin IL-76MD ‘Gajraj’, a heavy-lift transport aircraft, achieved the world’s highest-altitude landing for its aircraft type at Mudh-Nyoma Airbase in eastern Ladakh
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=22,0,24,6&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.25]]
+> > Researchers Discover New Scorpion Species ‘Liocheles similipalensis’ in Similipal Tiger Reserve, Odisha
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=238,0,244,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.25]]
+> > ✓ What? 2026 Brazilian Grand Prix (Round 20 of the 2026 F1 season)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-11-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=254,0,260,1&color=note|Toppers-CA-November-11-2026-by-AffairsCloud-1-v01, p.25]]
+> > ✓ Winner: Lando Norris (McLaren)
+> 
 > 
