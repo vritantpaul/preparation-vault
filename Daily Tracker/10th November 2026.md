@@ -15,7 +15,10 @@
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[Data drive.pdf]]
+- [ ] [[Foreign investors return.pdf]]
+- [ ] [[Medical device PLI extended.pdf]]
+- [ ] [[IRDAI forms two working groups.pdf]]
 
 ---
 
