@@ -3,7 +3,7 @@ tags:
   - DailyCA
 ---
 > [[GA - 10th November 2026|⏪]] | [[GA - 12th November 2026|⏩]]
-> <u>File Link</u>: [[GA - 11th November 2026]] 
+> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=GA%20-%2011th%20November%202026">GA - 11th November 2026</a> 
 
 # Affairs Cloud
 
