@@ -3,7 +3,7 @@ tags:
   - DailyCA
 ---
 > [[GA - 11th November 2026|⏪]] | [[GA - 13th November 2026|⏩]]
-> <u>File Link</u>: [[GA - 12th November 2026]] 
+> <u>File Link</u>: <a href="obsidian://open?vault=Preparation&file=GA%20-%2012th%20November%202026">GA - 12th November 2026</a> 
 
 # Affairs Cloud
 
@@ -112,3 +112,12 @@ tags:
 > > 
 > > 2nd: China; 3rd: Japan & Russia
 
+> [!PDF|note] [[PLI employment target.pdf#page=1&selection=8,0,29,30&color=note|PLI employment target, p.1]]
+> > India’s production-linked incentive (PLI) schemes have achieved only 28 per cent of their targeted employment generation, even as investment mobilisation has reached 76 per cent of the envisaged target, according to a first-of-its-kind assessment of the flagship schemes by NITI Aayog.
+> 
+>
+
+> [!PDF|note] [[PLI employment target.pdf#page=1&selection=52,0,54,30&color=note|PLI employment target, p.1]]
+> > The 14 schemes have generated ~850,000 jobs by 2025-26 (FY26), against a target of 3 million.
+> 
+> 

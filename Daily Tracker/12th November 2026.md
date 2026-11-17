@@ -16,7 +16,7 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Assocham report.pdf]]
+- [x] [[Assocham report.pdf]]
 - [ ] [[PLI employment target.pdf]]
 
 ---

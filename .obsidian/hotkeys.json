@@ -279,14 +279,6 @@
       "key": "\\"
     }
   ],
-  "templater-obsidian:Template/HTML List.md": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "/"
-    }
-  ],
   "templater-obsidian:Template/HTML UL.md": [
     {
       "modifiers": [
@@ -454,6 +446,14 @@
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
     }
   ]
 }
