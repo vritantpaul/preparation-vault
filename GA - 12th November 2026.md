@@ -119,5 +119,5 @@ tags:
 
 > [!PDF|note] [[PLI employment target.pdf#page=1&selection=52,0,54,30&color=note|PLI employment target, p.1]]
 > > The 14 schemes have generated ~850,000 jobs by 2025-26 (FY26), against a target of 3 million.
-> 
-> 
+
+---

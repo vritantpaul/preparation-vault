@@ -17,7 +17,7 @@
 # Newspaper Articles
 
 - [x] [[Assocham report.pdf]]
-- [ ] [[PLI employment target.pdf]]
+- [x] [[PLI employment target.pdf]]
 
 ---
 # Today's Agenda
