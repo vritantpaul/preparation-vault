@@ -52,5 +52,4 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=31,0,38,16&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.18]]
 > >  The annual guarantee fee has been reduced from 1% to 0.75%, while the fee structure for SHGs remains unchanged at 0.25% in the first year and 0.50% in subsequent years.
-> 
-> 
+
