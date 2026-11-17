@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -16,12 +16,13 @@
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[Assocham report.pdf]]
+- [ ] [[PLI employment target.pdf]]
 
 ---
-
 # Today's Agenda
 
 - [ ] Today's Scheme: 
 
 ---
+

@@ -78,4 +78,37 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=213,0,225,22&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.21]]
 > > Lionel Messi became the first player in Major League Soccer (MLS) history to win the Golden Boot in consecutive seasons
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=191,0,208,52&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.24]]
+> >  India secured fifth place in the 47th World Armwrestling and 28th World Para Armwrestling Championships, held in New Delhi, Delhi
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=220,0,231,1&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.24]]
+> > Russia secured 1st place, followed by Kazakhstan in 2nd place and Türkiye in 3rd place.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=235,0,237,1&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.24]]
+> > The 2027 World Armwrestling Championship to be held in Canada.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=229,0,229,59&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.25]]
+> > Sonia Gandhi Released Memoir “Belonging: A Journey of Love”
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-12-2026-by-AffairsCloud-1-v01.pdf#page=27&selection=206,0,213,1&color=note|Toppers-CA-November-12-2026-by-AffairsCloud-1-v01, p.27]]
+> > World Immunization Day is observed annually across the world on 10 November
+
+---
+
+# Business Standard
+
+> [!PDF|note] [[Assocham report.pdf#page=1&selection=13,0,23,26&color=note|Assocham report, p.1]]
+> > India is projected to emerge as the most resilient economy among the world’s 10 leading economies during 2026-30, with a score of 71 out of 100, according to an Assocham report titled ‘India’s Economic Edge in the Top Ten Economies’ .
+> > 
+> > 2nd: China; 3rd: Japan & Russia
+
