@@ -24,7 +24,7 @@ tR += `[[${yesterday}|⏮️]] | [[${tomorrow}|⏭️]]`;
 ---
 # Newspaper Articles
 
-- [ ] 
+
 
 ---
 
