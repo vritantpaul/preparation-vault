@@ -33,4 +33,24 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=162,2,167,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.17]]
 > > India–Myanmar Naval Exercise IMNEX-26 Begins in Andhra Pradesh
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=19&selection=210,0,211,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.19]]
+> > India and Sri Lanka Launch Innovation Forum to Strengthen Startup Cooperation
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=210,0,220,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.21]]
+> >  (RBI) issued the RBI (Domestic Money Transfer) Directions, 2026
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=222,41,238,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.21]]
+> > allowing walk-in customers without a bank account at the branch to transfer up to Rs 50,000 in cash into a beneficiary’s bank account through NEFT (National Electronic Funds Transfer)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=272,0,274,25&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.21]]
+> > Cash Pay out service: Rs 10,000 per transaction
+> 
 > 
