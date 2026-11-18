@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -17,7 +17,9 @@
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[CAD widens.pdf]]
+- [ ] [[Commodity trading contracts.pdf]]
+- [ ] [[Paytm gets approval to operate wallet.pdf]]
 
 ---
 

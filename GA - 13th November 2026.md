@@ -91,4 +91,20 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=50,0,52,61&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.26]]
 > > What? International Blue Flag Award to three beaches in Maharashtra
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=28&selection=113,0,123,13&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.28]]
+> > ✓ What? First male participant in FIFA Player Impact Programme ✓ Who? Sunil Chhetri
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=30&selection=128,0,140,15&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.30]]
+> > India observes National Education Day (NED) every year on 11 November to honour the legacy of Maulana Abul Kalam Azad who was the first education minister of independent India.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=31&selection=200,0,217,12&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.31]]
+> > Public Service Broadcasting Day (PSBD), also known as ‘Jan Prasaran Divas’, is observed annually across India on 12 November to commemorate the first and only live broadcast by Mahatma Gandhi
+> 
+>
+
