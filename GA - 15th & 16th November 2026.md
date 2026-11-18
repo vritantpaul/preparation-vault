@@ -20,4 +20,9 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=21&selection=68,1,77,2&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.21]]
 > >  and recorded a 94% treatment success rate for drug-susceptible TB
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=158,15,161,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.22]]
+> >  Indo-Sri Lanka ‘Exercise Mitra Shakti’ Begins in Maduru Oya, Sri Lanka
+> 
 > 
