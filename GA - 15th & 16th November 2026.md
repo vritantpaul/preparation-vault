@@ -37,3 +37,27 @@ tags:
 > 
 >
 
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=166,0,190,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.25]]
+> > Ministry of Finance (MoF), notified commodity trading contracts as financial products and commodity trading as a financial service under the International Financial Services Centres Authority (IFSCA) Act, 2019
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=98,0,103,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.26]]
+> > What? Swachh Survekshan 2025-26 Awards
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=151,1,156,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.26]]
+> > op 3 Cleanest Cities in India: Navi Mumbai, Maharashtra(ranks 1st); Surat, Gujarat (ranks 2nd) and Vijayawada, AP (3rd)
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=34&selection=62,0,75,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.34]]
+> > ✓ What? World Diabetes Day 2026 ✓ When? 14 November, 2026
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=35&selection=124,0,139,60&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.35]]
+> > Children’s Day, also known as Bal Diwas, is observed annually across India on 14 November to commemorate the birth anniversary of Pandit Jawaharlal Nehru
+> 
+> 
