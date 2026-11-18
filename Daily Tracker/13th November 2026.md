@@ -17,9 +17,12 @@
 ---
 # Newspaper Articles
 
-- [ ] [[CAD widens.pdf]]
-- [ ] [[Commodity trading contracts.pdf]]
-- [ ] [[Paytm gets approval to operate wallet.pdf]]
+- [ ] [[CAD widens.pdf]] #Pending 
+- [x] [[Commodity trading contracts.pdf]][^1]
+- [x] [[Paytm gets approval to operate wallet.pdf]][^1]
+
+
+[^1]: Can be found in [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf]].
 
 ---
 
@@ -27,4 +30,4 @@
 
 - [ ] Today's Scheme: 
 
----
+
