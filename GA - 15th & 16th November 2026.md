@@ -25,4 +25,14 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=22&selection=158,15,161,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.22]]
 > >  Indo-Sri Lanka ‘Exercise Mitra Shakti’ Begins in Maduru Oya, Sri Lanka
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=159,0,181,25&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.23]]
+> >  Paytm Payments Services Ltd (PPSL), received in-principle authorisation from the RBI to issue and operate Prepaid Payment Instruments (PPIs), including digital wallets.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=19,0,47,1&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.24]]
+> > ✓ What? Authorised Dealer Category-II (AD-II) licence to provide forex conversion and remittance services. ✓ Granted by? RBI. ✓ Company: Mufin Green Finance Limited.
+> 
 > 

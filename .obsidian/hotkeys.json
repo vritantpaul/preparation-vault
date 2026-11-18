@@ -455,5 +455,14 @@
       ],
       "key": "/"
     }
+  ],
+  "pdf-plus:toggle-adapt-to-theme": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }
