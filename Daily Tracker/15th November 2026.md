@@ -11,13 +11,13 @@
 <center>***</center>
 
 
-> 🗓️Daily Affairs Cloud: [[GA - 15th November 2026]]
+> 🗓️Daily Affairs Cloud: [[GA - 15th & 16th November 2026]]
 
 
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[National Health Accounts.pdf]]
 
 ---
 
