@@ -53,3 +53,27 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=18&selection=31,0,38,16&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.18]]
 > >  The annual guarantee fee has been reduced from 1% to 0.75%, while the fee structure for SHGs remains unchanged at 0.25% in the first year and 0.50% in subsequent years.
 
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=29,0,38,18&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.23]]
+> >  Event: 1st Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) Health Ministers’ Meeting ✓ Venue: Colombo, Sri Lanka
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=71,0,73,14&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.23]]
+> > Next Meeting: Thailand, 2028
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=79,69,81,90&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.23]]
+> > IMSTEC member nations which included: Sri Lanka, India, Bangladesh, Bhutan, Nepal, Myanmar, and Thailand
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=42,0,42,14&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.24]]
+> > About BIMSTEC:
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=54,0,58,7&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.24]]
+> > Headquartered in Dhaka, Bangladesh, the organisation is headed by Secretary-General Indra Mani Pandey.
+> 
+> 
