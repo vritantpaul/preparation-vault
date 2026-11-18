@@ -76,4 +76,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=54,0,58,7&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.24]]
 > > Headquartered in Dhaka, Bangladesh, the organisation is headed by Secretary-General Indra Mani Pandey.
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=61,1,66,34&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.24]]
+> > It came into existence on June 6, 1997 through the “Bangkok declaration”’ 
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=116,6,133,28&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.24]]
+> > National Commodity & Derivatives Exchange (NCDEX) launched India’s first Price Reporting Agency (PRA) based Steel Scrap Futures Contract, in partnership with BigMint Technologies Private Limited
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-13-2026-by-AffairsCloud-1-v01.pdf#page=26&selection=50,0,52,61&color=note|Toppers-CA-November-13-2026-by-AffairsCloud-1-v01, p.26]]
+> > What? International Blue Flag Award to three beaches in Maharashtra
+> 
 > 
