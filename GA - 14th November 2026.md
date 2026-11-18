@@ -78,4 +78,19 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=191,0,199,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.23]]
 > > The newly launched scheme has defined small merchants as those with maximum annual turnover of Rs 40 lakh in the previous year.
 > 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=23&selection=243,0,287,96&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.23]]
+> > Incentive Structure: The incentive structure of the scheme comprises 3 main components: • Component A (new merchant onboarding): with fund allocation of 30%, it provides an incentive of Rs 300 per Quick Response (QR) code and Rs 750 per soundbox. In order to qualify for incentive under this component, eligible merchants are required to record a minimum 25 eligible transactions in two out of three months, with a minimum monthly transaction value of Rs 5,000. • Component B (transaction growth): This component accounts for 50% of the incentive fund, linking incentives to quarterly increases in eligible UPI transaction volumes. The merchants are
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=24&selection=19,0,48,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.24]]
+> > required to achieve minimum 5% Quarter-on-Quarter (Q-o-Q) transaction volume growth at 0.03% of aggregate value (with an additional 50% incentive for targeted geographies). • Component C (incremental growth): This component accounts for the remaining 20% of the incentive fund, and seeks to promote incremental transaction growth in targeted geographies. Acquiring banks will get an incentive of 0.20% of the incremental value of eligible transactions in targeted geographies over the preceding quarter, payable over and above the Component B incentive.
+> 
+>
+
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=25&selection=214,1,242,86&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.25]]
+> > (RBI) approved the appointment of Pratap Singh as the Managing Director and Chief Executive Officer (MD & CEO) of Fino Payments Bank Limited for a period of three years
+> 
 > 
