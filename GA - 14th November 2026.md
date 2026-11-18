@@ -30,3 +30,7 @@ tags:
 > [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=16&selection=87,1,93,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.16]]
 > > So far, the GoI has disbursed Rs 35, 354 crore to companies, accounting for 18.51% of the total budget (Rs 1.91 lakh crore) allocated for the scheme.
 
+> [!PDF|note] [[Toppers-CA-November-14-2026-by-AffairsCloud-1-v01.pdf#page=17&selection=162,2,167,1&color=note|Toppers-CA-November-14-2026-by-AffairsCloud-1-v01, p.17]]
+> > India–Myanmar Naval Exercise IMNEX-26 Begins in Andhra Pradesh
+> 
+> 
