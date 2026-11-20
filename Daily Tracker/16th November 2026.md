@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -17,7 +17,10 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Clear policy signal.pdf]]
+- [x] [[Clear policy signal.pdf]]
+- [ ] [[SEBI forms panel for listing norms.pdf]]
+- [ ] [[Listing for Tata Sons.pdf]]
+- [ ] [[Yes bank AT1 bonds.pdf]]
 
 ---
 

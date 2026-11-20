@@ -17,7 +17,7 @@
 ---
 # Newspaper Articles
 
-- [ ] 
+- [ ] [[Beyond incentives.pdf]]
 
 ---
 

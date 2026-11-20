@@ -59,5 +59,4 @@ tags:
 
 > [!PDF|note] [[Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01.pdf#page=35&selection=124,0,139,60&color=note|Toppers-CA-November-15-16-2026-by-AffairsCloud-1-v01, p.35]]
 > > Children’s Day, also known as Bal Diwas, is observed annually across India on 14 November to commemorate the birth anniversary of Pandit Jawaharlal Nehru
-> 
-> 
+
