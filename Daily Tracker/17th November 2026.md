@@ -2,7 +2,7 @@
 
 # Daily Targets 🎯
 
-- [ ] Affairs Cloud PDF (Read  & Highlight)
+- [x] Affairs Cloud PDF (Read  & Highlight)
 - [ ] Product Constancy
 - [ ] Macroeconomics Deck
 - [ ] General Awareness Deck
@@ -17,7 +17,7 @@
 ---
 # Newspaper Articles
 
-- [ ] [[Beyond incentives.pdf]]
+- [x] [[Beyond incentives.pdf]]
 
 ---
 
