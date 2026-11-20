@@ -57,4 +57,25 @@ tags:
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=19&selection=169,0,188,14&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.19]]
 > >  Data Source: IMF’s World Economic Outlook database.  Second & Third: China ; Japan and Russia.
 > 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=19&selection=198,0,215,9&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.19]]
+> > India’s Performance: India ranked first in real Gross Domestic Product (GDP) and per capita GDP growth, second in gross savings and capital formation, third in export growth and debt-to-GDP ratio
 > 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=20&selection=20,0,28,28&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.20]]
+> > Digital Economy: The digital economy’s contribution to India’s GDP, currently around 13%, could reach 20% by 2030
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=22&selection=37,0,48,21&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.22]]
+> >  What? India Signs San Francisco Declaration on the Secure Foundations of Enduring Prosperity  Under: Pax Silica initiative
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=22&selection=64,0,71,21&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.22]]
+> >  Signatories: 10 governments: USA, India, Australia, Israel, Japan, Republic of Korea, Qatar, Singapore, UAE and UK
+> 
+> No need to make a separate card out of this. Add this as a new column to an existing card while separating with a pipe ("|"). 
+
