@@ -336,13 +336,10 @@ Basic++
 What is the four step method of estimating national income by <b>value added method</b>?
 Back: 
 
-1. Identify and classify production units.
-2. Estimate Gross Domestic Product at Market Price $GDP_{MP}$.
-3. Calculate Domestic Income $NDP_{FC}$.
-4. Estimate Net Factor Income From Abroad ($NFIA$) to arrived at national income.
+![[Value Added Method.jpg]]
 
 Footnotes:
-Source: [[Value Added Method.jpg]]
+Source:
 Reverse:
 Tags: Concept
 <!--ID: 1770038208334-->

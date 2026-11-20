@@ -17,6 +17,7 @@ Footnotes: As they have the same head and management.
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914142-->
 END
 
 ---
@@ -35,6 +36,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914212-->
 END
 
 ---
@@ -47,6 +49,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914258-->
 END
 
 ---
@@ -59,6 +62,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914314-->
 END
 
 ---
@@ -71,6 +75,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914364-->
 END
 
 ---
@@ -83,6 +88,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914412-->
 END
 
 ---
@@ -98,6 +104,7 @@ World Bank has set two goals for the world to achieve by 2030:
 Extra: 
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Tags: Concept
+<!--ID: 1795154914462-->
 END
 
 ---
@@ -110,6 +117,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914516-->
 END
 
 ---
@@ -122,6 +130,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914573-->
 END
 
 ---
@@ -174,6 +183,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914646-->
 END
 
 ---
@@ -186,6 +196,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Fact
+<!--ID: 1795154914703-->
 END
 
 ---
@@ -198,6 +209,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914759-->
 END
 
 ---
@@ -210,6 +222,7 @@ Footnotes: It aims to catalyse the <u>economic growth, improve living standards 
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914803-->
 END
 
 ---
@@ -222,6 +235,7 @@ Footnotes: IDA will also provide support to those countries that are above the o
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914843-->
 END
 
 ---
@@ -236,6 +250,7 @@ Examples: Pakistan, Zimbabwe, Nigeria etc.
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914890-->
 END
 
 ---
@@ -251,6 +266,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914947-->
 END
 
 ---
@@ -272,6 +288,7 @@ $ Crisis Response Window
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154914991-->
 END
 
 ---
@@ -284,6 +301,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915033-->
 END
 
 ---
@@ -296,6 +314,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915076-->
 END
 
 ---
@@ -308,6 +327,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915119-->
 END
 
 ---
@@ -337,6 +357,7 @@ Footnotes: It provides <b>investments</b>, <b>technical expertise</b> and <b>adv
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915158-->
 END
 
 ---
@@ -353,6 +374,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915200-->
 END
 
 ---
@@ -373,6 +395,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania), [[Functions of MIGA]]
 Reverse:
 Tags: Concept
+<!--ID: 1795154915234-->
 END
 
 ---
@@ -385,6 +408,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915271-->
 END
 
 ---
@@ -397,6 +421,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:⁷
 Tags: Concept
+<!--ID: 1795154915310-->
 END
 
 ---
@@ -412,6 +437,7 @@ Footnotes:
 Source: Ch 23: International Economic Institutions (Indian Economy by Nitin Singhania)
 Reverse:
 Tags: Concept
+<!--ID: 1795154915349-->
 END
 
 ---
