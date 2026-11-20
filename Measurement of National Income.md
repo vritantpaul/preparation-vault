@@ -471,7 +471,7 @@ Back:
 1. Final Output Method
 2. Value Added Method
 
-Footnotes: While avoiding double counting.
+Footnotes:
 Source: 
 Reverse:
 Tags: Concept
