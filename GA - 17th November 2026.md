@@ -79,3 +79,27 @@ tags:
 > 
 > No need to make a separate card out of this. Add this as a new column to an existing card while separating with a pipe ("|").
 
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=23&selection=188,1,194,11&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.23]]
+> > Goldman Sachs Group, Inc., released its latest “Global Economic Outlook (GEO 2027)”
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=24&selection=54,0,64,4&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.24]]
+> > The report projected that AI is expected to remain one of the major drivers of global economic growth as global nominal AI investment is estimated to increase to USD 1.8 trillion in CY27
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=25&selection=153,22,173,11&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.25]]
+> > Appointments Committee of the Cabinet (ACC) approved the appointment of Devesh Chaturvedi, as Chairman of the National Sports Board (NSB) for a tenure of three years
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=27&selection=236,0,253,36&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.27]]
+> >  What? 2026 International Shooting Sport Federation (ISSF) World Championship (Rifle/Pistol/Shotgun)  Where? Doha, Qatar
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=28&selection=19,0,33,40&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.28]]
+> >  Podium: China; Italy 2nd  India’s Tally: Finished 3rd with 13 medals
+> 
+> 
