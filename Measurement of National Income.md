@@ -763,7 +763,9 @@ Back:
 1. Interest paid by government on public debt and interest paid by consumer*.
 2. Interested paid by one firm to another firm.
 
-Footnotes: As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
+Footnotes: \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
+\***
+^ Interest paid by one non-financial firm to another firm is excluded from separate counting to avoid double counting, because that interest is already baked into the value of the borrowing firm's final output.
 Source: 
 Reverse:
 Tags: Concept
