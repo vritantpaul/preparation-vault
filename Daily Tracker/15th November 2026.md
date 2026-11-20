@@ -17,7 +17,7 @@
 ---
 # Newspaper Articles
 
-- [ ] [[National Health Accounts.pdf]]
+- [x] [[National Health Accounts.pdf]]
 
 ---
 
