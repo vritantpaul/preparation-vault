@@ -20,7 +20,7 @@
 - [x] [[Clear policy signal.pdf]]
 - [x] [[SEBI forms panel for listing norms.pdf]]
 - [x] [[Listing for Tata Sons.pdf]]
-- [ ] [[Yes bank AT1 bonds.pdf]]
+- [x] [[Yes bank AT1 bonds.pdf]]
 
 ---
 
