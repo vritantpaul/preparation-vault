@@ -77,5 +77,5 @@ tags:
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=22&selection=64,0,71,21&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.22]]
 > >  Signatories: 10 governments: USA, India, Australia, Israel, Japan, Republic of Korea, Qatar, Singapore, UAE and UK
 > 
-> No need to make a separate card out of this. Add this as a new column to an existing card while separating with a pipe ("|"). 
+> No need to make a separate card out of this. Add this as a new column to an existing card while separating with a pipe ("|").
 
