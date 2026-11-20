@@ -192,9 +192,10 @@ START
 Basic++
 Value of Output
 Back: Sales* + Change in Stock^
-Footnotes: * Quantity × Price
+Footnotes: \* Quantity × Price
 \***
-^ Closing stock* – Opening Stock^
+^ Closing stock – Opening Stock
+(at the end and beginning of the accounting year respectively)
 Source: 
 Reverse: 1
 Tags: Concept
@@ -229,7 +230,7 @@ END
 
 ---
 
-START
+!START
 Basic++
 Change in Stock
 Back: Closing stock* – Opening Stock^
@@ -239,7 +240,7 @@ At the beginning of an accounting year, for example, on 1st April 2025.
 Source: 
 Reverse:
 Tags: Concept
-<!--ID: 1770038208238-->
+
 END
 
 ---
