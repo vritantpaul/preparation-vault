@@ -191,8 +191,10 @@ END
 START
 Basic++
 Value of Output
-Back: Market value of all goods and services* produced during a period of 1 year.
-Footnotes: Including exports.
+Back: Sales* + Change in Stock^
+Footnotes: * Quantity × Price
+\***
+^ Closing stock* – Opening Stock^
 Source: 
 Reverse: 1
 Tags: Concept
@@ -205,7 +207,7 @@ START
 Basic++
 What is the value of output when the entire output is sold in an accounting year?
 Back: Value of Output = Sales
-Footnotes:
+Footnotes: 
 Source: 
 Reverse:
 Tags: Concept
