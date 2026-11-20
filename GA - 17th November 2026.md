@@ -102,4 +102,9 @@ tags:
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=28&selection=19,0,33,40&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.28]]
 > >  Podium: China; Italy 2nd  India’s Tally: Finished 3rd with 13 medals
 > 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=33&selection=181,0,187,11&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.33]]
+> > National Press Day (NPD) is observed every year across India on 16 November
+> 
 > 
