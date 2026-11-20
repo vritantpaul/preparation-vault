@@ -48,5 +48,13 @@ tags:
 
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=17&selection=235,15,242,17&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.17]]
 > > Confederation of Indian Industry (CII) Partnership Summit 2026 was held in Visakhapatnam, Andhra Pradesh (AP)
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=19&selection=95,26,117,13&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.19]]
+> > Associated Chambers of Commerce and Industry of India (ASSOCHAM) released its report India’s Economic Edge in the Top Ten Economies, placing India 1st among 10 major global economies in economic resilience for 2026–30, with a score of 71 out of 100
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=19&selection=169,0,188,14&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.19]]
+> >  Data Source: IMF’s World Economic Outlook database.  Second & Third: China – 66 points; Japan and Russia – 60 points each.
 > 
 > 
