@@ -28,4 +28,25 @@ tags:
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=16&selection=165,0,175,1&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.16]]
 > > In 2023–24, State Governments contributed approximately 68% of GHE, while the Union Government accounted for 32%.
 > 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=16&selection=148,0,161,1&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.16]]
+> > Between 2013–14 and 2023–24, the government’s share in Total Health Expenditure (THE) increased by 14.9 percentage points, representing nearly 52% growth.
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=16&selection=244,0,247,8&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.16]]
+> > The Per capita total health expenditure was estimated at Rs 6,801
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=16&selection=204,0,222,6&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.16]]
+> > Out-of-Pocket Expenditure (OOPE): The share of OOPE in THE declined from 64.2% in 2013-14 to 42.7% in 2023-24, registering a fall of 21.5%.
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=17&selection=202,6,207,19&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.17]]
+> > Ministry of Health and Family Welfare(MoHFW): Union Minister– Jagat Prakash Nadda
+> 
+>
+
+> [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=17&selection=235,15,242,17&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.17]]
+> > Confederation of Indian Industry (CII) Partnership Summit 2026 was held in Visakhapatnam, Andhra Pradesh (AP)
+> 
 > 
