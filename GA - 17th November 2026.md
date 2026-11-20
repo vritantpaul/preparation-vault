@@ -55,6 +55,6 @@ tags:
 >
 
 > [!PDF|note] [[Daily-CA-PDF-English-November-17-2026-1-v01.pdf#page=19&selection=169,0,188,14&color=note|Daily-CA-PDF-English-November-17-2026-1-v01, p.19]]
-> >  Data Source: IMF’s World Economic Outlook database.  Second & Third: China – 66 points; Japan and Russia – 60 points each.
+> >  Data Source: IMF’s World Economic Outlook database.  Second & Third: China ; Japan and Russia.
 > 
 > 
