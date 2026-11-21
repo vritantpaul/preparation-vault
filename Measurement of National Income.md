@@ -952,6 +952,33 @@ END
 
 START
 Basic++
+What are the two types of unincorporated enterprises?
+Back: 
+1. Own Account Enterprises (OAEs)
+2. Hired Worker Enterprises (HWEs)
+
+Footnotes:
+Source:
+Reverse:
+Tags: Concept
+END
+
+---
+
+START
+Basic++
+Are <b>own-account workers</b> always part of <b>unincorporated enterprises</b>?
+Back: In international labor statistics (like the ILO), if a solo business owner registers their one-person business as a separate legal entity (such as a One-Person Company or LLC) and hires no employees, labor surveys may still classify the person as an own-account worker in practice, even though the business is legally incorporated.
+Footnotes:
+Source:
+Reverse:
+Tags: Concept
+END
+
+---
+
+START
+Basic++
 Why is there a need for mixed income category in national income accounting?
 Back: 
 1. <u>Accounts of most production units are not available</u> to the estimators of national income. 
