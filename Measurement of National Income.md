@@ -648,7 +648,7 @@ START
 Basic++
 What is not a form of <i>wages and salaries in kind</i> under <b>Compensation of Employees (COE)</b>?
 Back: Any facility which is necessary for work and in which employees do not have any discretion. For example, uniform to be worn during work only or vehicles to be used for work only. Such payments are intermediate consumption of business enterprises.
-Footnotes: \* 
+Footnotes:
 Source: 
 Reverse:
 Tags: Concept
@@ -763,7 +763,7 @@ Back:
 1. Interest paid by government on public debt and interest paid by consumer*.
 2. Interested paid by one firm to another firm^.
 
-Footnotes: \* \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
+Footnotes: \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
 \***
 ^ To avoid double counting, because that interest is already baked into the value of the borrowing firm's final output.
 Source: 

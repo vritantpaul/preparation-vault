@@ -105,7 +105,7 @@ END
 
 ---
 
-START
+!START
 Basic (and reversed card)
 Net Investment
 Back: Gross Investment – Depreciation
