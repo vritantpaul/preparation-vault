@@ -1053,7 +1053,7 @@ START
 Basic++
 Are windfall gains^ included in national income?
 Back: No*
-Footnotes: \* As there are no productive activity involved.
+Footnotes: \* As there is no productive activity involved.
 \*\*\*
 Windfall gains are sudden, unexpected incomes received without any corresponding productive activity. For example, lottery winnings, gambling gains, unexpected inheritance.
 Source: 

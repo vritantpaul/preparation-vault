@@ -17,7 +17,9 @@
 ---
 # Newspaper Articles
 
-
+- [ ] [[Leadership gap.pdf]]
+- [ ] [[API security.pdf]]
+- [ ] [[ADB appoints chief economist.pdf]]
 
 ---
 
