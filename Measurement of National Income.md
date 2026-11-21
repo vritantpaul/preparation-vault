@@ -14,7 +14,7 @@ Back:
 2. Income Method
 3. Expenditure Method
 
-Footnotes: We have three different methods to measure the national income because there are three different phases of circular flow of income.
+Footnotes: \* We have three different methods to measure the national income because there are three different phases of circular flow of income.
 Source: 
 Reverse:
 Tags: Concept
@@ -70,7 +70,7 @@ START
 Basic++
 Who made the first official attempt to compute national income?
 Back: P.C. Mahalanobis*
-Footnotes: Head of the <b>National Income Committee</b> at that time.
+Footnotes: \* Head of the <b>National Income Committee</b> at that time.
 Source:
 Reverse:
 Tags: Fact
@@ -96,7 +96,7 @@ START
 Basic++
 What is the difference between <b>National Statistical Office (NSO)</b> and <b>National Statistical Commission (NSC)</b>?
 Back: NSO is the government agency that collects and publishes official statistics, whereas NSC* is an autonomous body that sets statistical policies, priorities, and standards. 
-Footnotes: It is an autonomous body which was formed in <b>2005</b> under the recommendation of <b>Rangarajan Commission</b>. Chief Statistician of India and Secretary, MoSPI is the Secretary to the Commission. The objective of its constitution is to reduce the problems faced by statistical agencies in the country in relation to collection of data.
+Footnotes: \* It is an autonomous body which was formed in <b>2005</b> under the recommendation of <b>Rangarajan Commission</b>. Chief Statistician of India and Secretary, MoSPI is the Secretary to the Commission. The objective of its constitution is to reduce the problems faced by statistical agencies in the country in relation to collection of data.
 Source:
 Reverse:
 Tags: Fact
@@ -151,7 +151,7 @@ START
 Basic++
 Value Added
 Back: Value of Output – Intermediate Consumption*^
-Footnotes: Value of intermediate goods (raw materials) which are being consumed in the production process.
+Footnotes: \* Value of intermediate goods (raw materials) which are being consumed in the production process.
 \*\*\*
 ^ Including imports.
 Source: 
@@ -208,7 +208,7 @@ START
 Basic++
 What is the value of output when the entire output is sold in an accounting year?
 Back: Value of Output = Sales
-Footnotes: 
+Footnotes:
 Source: 
 Reverse:
 Tags: Concept
@@ -221,7 +221,7 @@ START
 Basic++
 What is the value of output when the entire stock is not sold in an accounting year?
 Back: Value of Output = Sales* + Change in Stock
-Footnotes: Quantity × Price
+Footnotes: \* Quantity × Price
 Source: 
 Reverse:
 Tags: Concept
@@ -234,7 +234,7 @@ END
 Basic++
 Change in Stock
 Back: Closing stock* – Opening Stock^
-Footnotes: At the end of an accounting year, for example, on 31st March 2026.
+Footnotes: \* At the end of an accounting year, for example, on 31st March 2026.
 \*\*\*
 At the beginning of an accounting year, for example, on 1st April 2025.
 Source: 
@@ -266,7 +266,7 @@ START
 Basic++
 What kind of producing enterprises comes under <b>primary* sector</b>?
 Back: Production units <u>exploiting natural resources like land, water, subsoil assets, etc</u>. For example, farming, fishing, mining, animal husbandry, forestry, etc. 
-Footnotes: It is <i>'primary'</i> as it is the source of basic raw materials for the secondary sector.
+Footnotes: \* It is <i>'primary'</i> as it is the source of basic raw materials for the secondary sector.
 Source: 
 Reverse:
 Tags: Concept
@@ -279,7 +279,7 @@ START
 Basic++
 What kind of producing enterprises comes under <b>secondary* sector</b>?
 Back: Production units which are <u>engaged in transforming one good into another good</u>. These units convert raw materials into finished goods. For example, firms engaged in converting sugarcane into sugar, construction companies, power generation, etc.
-Footnotes: It is called <i>'secondary'</i> because it depends on primary sector for raw materials.
+Footnotes: \* It is called <i>'secondary'</i> because it depends on primary sector for raw materials.
 Source: 
 Reverse:
 Tags: Concept
@@ -292,7 +292,7 @@ START
 Basic++
 What kind of producing enterprises comes under <b>tertiary* sector</b>?
 Back: Production units <u>engaged in producing services</u>. For example, transport, education, finance, government administration, etc. 
-Footnotes: This sector finds third place because its growth is primarily dependent on primary and secondary sectors.
+Footnotes: \* This sector finds third place because its growth is primarily dependent on primary and secondary sectors.
 Source: 
 Reverse:
 Tags: Concept
@@ -318,7 +318,7 @@ START
 Basic++
 Which types of economic activities are classified under the <b>quinary sector</b>?
 Back: Activities* in this sector involve high level decision making in government, industry, etc.
-Footnotes: It includes activities performed by:
+Footnotes: \* It includes activities performed by:
 - Top executives and high-level managers
 - Senior government officials
 - Policy-makers
@@ -354,7 +354,7 @@ START
 Basic++
 Is sale and purchase of second-hand goods included in national income?
 Back: No*
-Footnotes: As they were included in the year in which they were produced and do not add to current flow of good and services.
+Footnotes: \* As they were included in the year in which they were produced and do not add to current flow of good and services.
 Source: 
 Reverse:
 Tags: Concept
@@ -367,7 +367,7 @@ START
 Basic++
 Is commission or brokerage on sale or purchase of second-hand goods included in national income?
 Back: Yes*
-Footnotes: As it is a productive service. For example, revenue generated by eBay or OLX.
+Footnotes: \* As it is a productive service. For example, revenue generated by eBay or OLX.
 Source: 
 Reverse:
 Tags: Concept
@@ -380,7 +380,7 @@ START
 Basic++
 Are production of <i>services</i> for self consumption (domestic services) included in national income?
 Back: No*
-Footnotes: Domestic services like services of a housewife, kitchen, gardening, etc. are not included in the national income since <u>it is difficult to measure their market value</u>.
+Footnotes: \* Domestic services like services of a housewife, kitchen, gardening, etc. are not included in the national income since <u>it is difficult to measure their market value</u>.
 Source: 
 Reverse:
 Tags: Concept
@@ -406,7 +406,7 @@ START
 Basic++
 Do paid services like services of maids, drivers, private tutors, etc. come under non-market transactions?
 Back: No*
-Footnotes: And are thus included in national income.
+Footnotes: \* And are thus included in national income.
 Source: 
 Reverse:
 Tags: Concept
@@ -419,7 +419,7 @@ START
 Basic++
 Are production of <i>goods</i> for self-consumption included in national income?
 Back: Yes*
-Footnotes: As they contribute to the current output. Their value is to be estimated or imputed as they are not sold in the market.
+Footnotes: \* As they contribute to the current output. Their value is to be estimated or imputed as they are not sold in the market.
 Source: 
 Reverse:
 Tags: Concept
@@ -445,7 +445,7 @@ START
 Basic++
 Are imputed value of owner occupied houses included in national income?
 Back: Yes*
-Footnotes: People, who live in their own houses, do not pay any rent. But, they enjoy housing services similar to those people who stay in rented houses. Therefore, value of such housing services is estimated according to market rent of similar accommodation.
+Footnotes: \* People, who live in their own houses, do not pay any rent. But, they enjoy housing services similar to those people who stay in rented houses. Therefore, value of such housing services is estimated according to market rent of similar accommodation.
 Source: 
 Reverse:
 Tags: Concept
@@ -591,7 +591,7 @@ Back:
 2. Wages and salaries in kind
 3. Employer's contribution to social security schemes
 
-Footnotes: Amount payed to employees by employer for rendering productive services.
+Footnotes: \* Amount payed to employees by employer for rendering productive services.
 Source: 
 Reverse:
 Tags: Concept
@@ -604,7 +604,7 @@ START
 Basic++
 What are some examples of <i>wages and salaries in cash</i>?
 Back: Wages, salaries*, dearness allowance^, commissions, etc.
-Footnotes: Wages are paid based on time spent working while salaries are fixed.
+Footnotes: \* Wages are paid based on time spent working while salaries are fixed.
 \*\*\*
 ^ Some fixed percentage of the basic salary aimed at hedging the impact of inflation.
 Source: 
@@ -619,7 +619,7 @@ START
 Basic++
 What is not included in Compensation of Employees (COE)?
 Back: Reimbursement*
-Footnotes: 
+Footnotes: \* 
 - Reimbursement is the cost incurred by the employee in order to render his services. For example, fuel cost of a door-to-door salesman or phone bill of telecaller. 
 - Any reimbursement of business expenses incurred by the employees will be excluded from COE as such expenses are <u>part of the intermediate consumption of business enterprises</u>.
 
@@ -648,7 +648,7 @@ START
 Basic++
 What is not a form of <i>wages and salaries in kind</i> under <b>Compensation of Employees (COE)</b>?
 Back: Any facility which is necessary for work and in which employees do not have any discretion. For example, uniform to be worn during work only or vehicles to be used for work only. Such payments are intermediate consumption of business enterprises.
-Footnotes: 
+Footnotes: \* 
 Source: 
 Reverse:
 Tags: Concept
@@ -661,7 +661,7 @@ START
 Basic++
 What are some examples of <i>wages and salaries in kind</i>?
 Back: Rent free home, free car, medical and educational facilities.*
-Footnotes: An imputed value of these benefits should be included in the national income.
+Footnotes: \* An imputed value of these benefits should be included in the national income.
 Source: 
 Reverse:
 Tags: Concept
@@ -674,7 +674,7 @@ START
 Basic++
 What are some examples of <i>employer's contribution to social security schemes</i>?
 Back: Provident fund, gratuity^, labour welfare funds, etc.*
-Footnotes: The aim of such contributions is to ensure safety and security of life of the employees.
+Footnotes: \* The aim of such contributions is to ensure safety and security of life of the employees.
 \*\*\*
 Extra amount paid for services like tip paid to a waiter.
 Source: 
@@ -719,7 +719,7 @@ START
 Basic++
 What is royalty?
 Back: Income received for granting leasing rights of sub-soil assets*. For example, owners of mineral deposits like coal, iron ore, natural gas, etc. can earn income by giving rights of mining to the contractors.
-Footnotes: Sub-soil assets are natural resources located beneath the earth’s surface that have economic value.
+Footnotes: \* Sub-soil assets are natural resources located beneath the earth’s surface that have economic value.
 Source: 
 Reverse:
 Tags: Concept
@@ -734,7 +734,7 @@ Back:
 1. Actual rent (rent of let out land)
 2. Imputed rent (rent of self-occupied properties)*
 
-Footnotes: Imputed rent of owner occupied houses is calculated on the basis of market value of the house.
+Footnotes: \* Imputed rent of owner occupied houses is calculated on the basis of market value of the house.
 Source: 
 Reverse:
 Tags: Concept
@@ -747,7 +747,7 @@ START
 Basic++
 What is interest?
 Back: Amount received for lending funds to a production unit. 
-Footnotes: It includes both actual interest as well <u>imputed interest of funds provided by the entrepreneur</u>.
+Footnotes: \* It includes both actual interest as well <u>imputed interest of funds provided by the entrepreneur</u>.
 Source: 
 Reverse:
 Tags: Concept
@@ -763,7 +763,7 @@ Back:
 1. Interest paid by government on public debt and interest paid by consumer*.
 2. Interested paid by one firm to another firm^.
 
-Footnotes: \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
+Footnotes: \* \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
 \***
 ^ To avoid double counting, because that interest is already baked into the value of the borrowing firm's final output.
 Source: 
@@ -778,7 +778,7 @@ START
 Basic++
 What is profit?
 Back: Reward to the entrepreneur for his contribution to the production of goods and services.
-Footnotes: It is the <b>residual income</b> which an entrepreneur earns <u>after paying all the other factors of production</u>.
+Footnotes: \* It is the <b>residual income</b> which an entrepreneur earns <u>after paying all the other factors of production</u>.
 Source: 
 Reverse:
 Tags: Concept
@@ -837,7 +837,7 @@ START
 Basic++
 What is dividend*?
 Back: That part of profit which is paid to the shareholders in the ratio of their shareholding.
-Footnotes: It is also known <b>distributed profits</b>.
+Footnotes: \* It is also known <b>distributed profits</b>.
 Source: 
 Reverse:
 Tags: Concept
@@ -850,7 +850,7 @@ START
 Basic++
 Retained Earnings*
 Back: Profit – Corporate Tax — Dividend
-Footnotes: It is kept as a reserve to meet unexpected contingencies for business expansion.
+Footnotes: \* It is kept as a reserve to meet unexpected contingencies for business expansion.
 Source: 
 Reverse: 1
 Tags: Concept
@@ -919,7 +919,7 @@ START
 Basic++
 Does operating surplus arises in general government sector?
 Back: No*
-Footnotes: It does not arise in the general government sector as it works with the <u>motive of social welfare</u>. Its basic aim is to operate for the benefit of public. So, incomes like rent, interest and profit are nil in general government sector.
+Footnotes: \* It does not arise in the general government sector as it works with the <u>motive of social welfare</u>. Its basic aim is to operate for the benefit of public. So, incomes like rent, interest and profit are nil in general government sector.
 Source: 
 Reverse:
 Tags: Concept
@@ -935,7 +935,7 @@ Back: Income generated by:
 1. Own-account workers (like farmers, barbers, etc.)
 2. Unincorporated enterprises^ (like retail traders, small shopkeepers, etc.)
 
-Footnotes: 
+Footnotes: \* 
 - It is the term used for any income that has elements of <u>more than one type of factor income</u>. 
 - Mixed income arises from <u>productive services of self-employed persons</u> (therefore, also known as <b>mixed income of self-employed</b>), whose income includes wages, rent, interest and profit and <u>these elements cannot be separated from each other</u>.
 - For example, income of a doctor running a clinic at his residence.
@@ -988,7 +988,7 @@ START
 Basic++
 What are capital gains*?
 Back: Income from sale of second-hand goods (old car) and financial assets (bonds, debentures, etc.).
-Footnotes: Any income arising from such transactions is not a factor income (in fact, capital transfers) as these transactions are not productive transactions and do not add to the current flow of goods and services in the economy. 
+Footnotes: \* Any income arising from such transactions is not a factor income (in fact, capital transfers) as these transactions are not productive transactions and do not add to the current flow of goods and services in the economy. 
 Source: 
 Reverse:
 Tags: Concept
@@ -1001,7 +1001,7 @@ START
 Basic++
 Is sale and purchase of shares, bonds and debentures included in national income?
 Back: No*
-Footnotes: They are capital gains i.e. a change of ownership is taking place.
+Footnotes: \* They are capital gains i.e. a change of ownership is taking place.
 Source: 
 Reverse:
 Tags: Concept
@@ -1014,7 +1014,7 @@ START
 Basic++
 Are commission or brokerage from sales of shares, bonds and debentures included in national income?
 Back: Yes*
-Footnotes: As it is a productive service.
+Footnotes: \* As it is a productive service.
 Source: 
 Reverse:
 Tags: Concept
@@ -1027,7 +1027,7 @@ START
 Basic++
 Are windfall gains^ included in national income?
 Back: No*
-Footnotes: As there are no productive activity involved.
+Footnotes: \* As there are no productive activity involved.
 \*\*\*
 Windfall gains are sudden, unexpected incomes received without any corresponding productive activity. For example, lottery winnings, gambling gains, unexpected inheritance.
 Source: 
@@ -1042,7 +1042,7 @@ START
 Basic++
 Are payments out of 'past savings' included in national income?
 Back: No*
-Footnotes: Payments out of past savings (like death duties (inheritance tax), gift tax, wealth tax, etc.) are not included in the National income because they are paid out of wealth or past savings and do not add to current flow of goods and services.
+Footnotes: \* Payments out of past savings (like death duties (inheritance tax), gift tax, wealth tax, etc.) are not included in the National income because they are paid out of wealth or past savings and do not add to current flow of goods and services.
 Source: 
 Reverse:
 Tags: Concept
@@ -1087,7 +1087,7 @@ START
 Basic++
 What is meant by the term capital formation?
 Back: Addition to the existing stock of real capital* in an economy during an accounting period.
-Footnotes: Real capital as opposed to financial capital. These are man-made, <b>tangible</b> productive assets that are <u>used repeatedly in the production of goods and services</u>.
+Footnotes: \* Real capital as opposed to financial capital. These are man-made, <b>tangible</b> productive assets that are <u>used repeatedly in the production of goods and services</u>.
 Source:
 Reverse:
 Tags: Concept
@@ -1100,7 +1100,7 @@ START
 Basic++
 NI: Expenditure Method
 Back: Sum total of final expenditures* incurred by households, business firms, government, and foreigners.
-Footnotes: $\Sigma Final Expenditure=GDP_{MP}$
+Footnotes: \* $\Sigma Final Expenditure=GDP_{MP}$
 Source: 
 Reverse: 1
 Tags: Concept
@@ -1154,7 +1154,7 @@ START
 Basic++
 The only exception to durable goods which isn't included in Private Final Consumption Expenditure (PFCE) is?
 Back: Houses*
-Footnotes: The expenditure incurred on purchase or construction of owner-occupied houses is treated as capital formation (included under <b>Gross Residential Construction Investment</b>) and not as durable consumption.
+Footnotes: \* The expenditure incurred on purchase or construction of owner-occupied houses is treated as capital formation (included under <b>Gross Residential Construction Investment</b>) and not as durable consumption.
 Source: 
 Reverse:
 Tags: Concept
@@ -1167,7 +1167,7 @@ START
 Basic++
 Government Final Consumption Expenditure (GFCE)
 Back: Intermediate consumption of government + COE paid by government + Direct purchases from aboard for embassies and consulates located abroad — Sales of goods and services produced by general government
-Footnotes: GFCE is equal to cost of goods and services produced by government for collective use by the public. These services are valued at their cost to the government as they are not normally sold to the public.
+Footnotes: \* GFCE is equal to cost of goods and services produced by government for collective use by the public. These services are valued at their cost to the government as they are not normally sold to the public.
 Source: 
 Reverse: 1
 Tags: Concept
@@ -1180,7 +1180,7 @@ START
 Basic++
 Gross Domestic Capital Formation (GDCF)
 Back: Gross Fixed Capital Formation + Inventory Investment*^
-Footnotes: Change in Stock
+Footnotes: \* Change in Stock
 \*\*\*
 ^ Any Increase in stock of consumer goods with households is excluded from inventory investment as it is assumed that such goods are consumed, the moment they are purchased. In other words, they are included in <b>Private Final Consumption Expenditure (PFCE)</b>.
 Source: 
@@ -1195,7 +1195,7 @@ START
 Basic++
 Gross Fixed Capital Formation*
 Back: Gross Business Fixed Investment + Gross Residential Construction Investment + Gross Public Investment 
-Footnotes: Expenditure incurred on purchase of fixed (non-current) assets.
+Footnotes: \* Expenditure incurred on purchase of fixed (non-current) assets.
 Source: 
 Reverse: 1
 Tags: Concept
@@ -1370,7 +1370,7 @@ START
 Basic++
 Which accounting year is taken as the base year for calculating national income at constant price?
 Back: 2022-23
-Footnotes: The base year should be a normal year i.e., it must not experience any abnormal incidents such as droughts, floods, earthquakes, pandemic, etc. Also, it should not be too distant in the past.
+Footnotes: \* The base year should be a normal year i.e., it must not experience any abnormal incidents such as droughts, floods, earthquakes, pandemic, etc. Also, it should not be too distant in the past.
 Source: [GDP Base Year Revised to 2022-23 – Drishti IAS](https://www.drishtiias.com/daily-updates/daily-news-analysis/gdp-base-year-revised-to-2022-23)
 Reverse:
 Tags: Concept
@@ -1383,7 +1383,7 @@ START
 Basic++
 Why is national income at current price not considered a good representative of physical output of an economy?
 Back: Because any increase in nominal national income may be <u>due to rise in price level* without any change in physical output</u>.
-Footnotes: With high rate of inflation in India, nominal national income may create a false sense of economic growth.
+Footnotes: \* With high rate of inflation in India, nominal national income may create a false sense of economic growth.
 Source: 
 Reverse:
 Tags: Concept
@@ -1439,7 +1439,7 @@ Basic++
 Real GDP
 Back: $\frac{\text{Nominal GDP}}{\text{Price Index}}\times100$
 
-Footnotes: 
+Footnotes: \* 
 Source: 
 Reverse: 1
 Tags: Concept
@@ -1466,7 +1466,7 @@ START
 Basic++
 GDP Deflator
 Back: $\frac{\text{Nominal GDP}}{\text{Real GDP}} \times {100}$
-Footnotes: The GDP price deflator is a gauge of inflation that computes changes in the prices of goods and services that are made in an economy, including exports. For example, if GDP deflator is 125, it means a 25% increase in price from the base year.
+Footnotes: \* The GDP price deflator is a gauge of inflation that computes changes in the prices of goods and services that are made in an economy, including exports. For example, if GDP deflator is 125, it means a 25% increase in price from the base year.
 Source: 
 Reverse: 1
 Tags: Concept
@@ -1479,7 +1479,7 @@ START
 Basic++
 What does a price index* measures?
 Back: Average change in prices of a basket of goods and services, relative to a base year.
-Footnotes: An index tells you how much something has increased or decreased relative to a base period.
+Footnotes: \* An index tells you how much something has increased or decreased relative to a base period.
 Source: 
 Reverse:
 Tags: Concept
@@ -1665,7 +1665,7 @@ Back:
 3. Use of old-age production methods to produce goods.
 4. Need for a user-friendly regulatory framework in terms of easy entry and exit policy for corporates.
 
-Footnotes: For reference that gender equality boosts potential GDP by 26%.
+Footnotes: \* For reference that gender equality boosts potential GDP by 26%.
 Source: 
 Reverse:
 Tags: Concept
@@ -1680,7 +1680,7 @@ START
 Basic++
 What is capital output ratio?
 Back: Amount of capital needed to produce one unit of output.*
-Footnotes: For example, if ₹1,00,000 is needed to produce 100 units then Capital Output Ratio will be 1000.
+Footnotes: \* For example, if ₹1,00,000 is needed to produce 100 units then Capital Output Ratio will be 1000.
 Source: 
 Reverse:
 Tags: Concept
@@ -1742,7 +1742,7 @@ START
 Basic++
 GDP Per Capita
 Back: $\frac{GDP_{MP}}{\text{Total Population}}$
-Footnotes: Can be calculated both at <b>current</b> and <b>constant</b> prices.
+Footnotes: \* Can be calculated both at <b>current</b> and <b>constant</b> prices.
 Source: 
 Reverse: 1
 Tags: Concept
