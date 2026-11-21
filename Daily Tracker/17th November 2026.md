@@ -18,6 +18,9 @@
 # Newspaper Articles
 
 - [x] [[Beyond incentives.pdf]]
+- [ ] [[Debt woes.pdf]]
+- [ ] [[Quad to take on Economic coercion.pdf]]
+- [ ] [[India's labour codes.pdf]]
 
 ---
 
