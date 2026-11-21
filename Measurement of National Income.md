@@ -1191,9 +1191,11 @@ END
 
 START
 Basic++
-Government Final Consumption Expenditure (GFCE)
-Back: Intermediate consumption of government + COE paid by government + Direct purchases from aboard for embassies and consulates located abroad — Sales of goods and services produced by general government
+Government Final Consumption Expenditure (GFCE)*
+Back: Intermediate consumption of government + COE paid by government + Direct purchases from aboard for embassies and consulates located abroad — Sales of goods and services produced by general government^
 Footnotes: \* GFCE is equal to cost of goods and services produced by government for collective use by the public. These services are valued at their cost to the government as they are not normally sold to the public.
+\***
+^ Those paid items are already counted inside <b>Private Final Consumption Expenditure (PFCE)</b>.
 Source: 
 Reverse: 1
 Tags: Concept
