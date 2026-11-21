@@ -999,13 +999,10 @@ START
 Basic++
 What is the four step method of estimating national income by <b>income method</b>?
 Back: 
-1. Identify and classify production units.
-2. Estimate factor income paid by each sector.
-3. Calculate Domestic Income ($NDP_{FC}$).
-4. Estimate Net Factor Income From Abroad ($NFIA$) to arrived at national income.
+![[Income Method.jpg]]
 
 Footnotes:
-Source: [[Income Method.jpg]]
+Source:
 Reverse:
 Tags: Concept
 <!--ID: 1770114191685-->
@@ -1315,13 +1312,10 @@ START
 Basic++
 What is the four step method of estimating national income by <b>expenditure method</b>?
 Back: 
-1. Identify the economic units incurring final expenditure.
-2. Classification of final expenditure.
-3. Calculate Domestic Income ($NDP_{FC}$).
-4. Estimate Net Factor Income from Abroad ($NFIA$) to arrive at national income.
+![[Expenditure Method.jpg]]
 
 Footnotes:
-Source: [[Expenditure Method.jpg]]
+Source:
 Reverse:
 Tags: Concept
 <!--ID: 1770795099127-->
