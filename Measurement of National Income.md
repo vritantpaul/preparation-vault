@@ -1361,7 +1361,7 @@ END
 START
 Basic++
 What is the difference between <b>nominal national income</b> and <b>real national income</b>?
-Back: Nominal national income is <u>measured at the prices of the current year</u>, whereas, real national income is <u>measured at base price year</u>.
+Back: Nominal national income is <u>measured at the prices of the current year</u>, whereas, real national income is <u>measured at base year price</u>.
 Footnotes:
 Source: 
 Reverse:
@@ -1464,7 +1464,7 @@ Basic++
 Real GDP
 Back: $\frac{\text{Nominal GDP}}{\text{Price Index}}\times100$
 
-Footnotes: \* 
+Footnotes:
 Source: 
 Reverse: 1
 Tags: Concept
