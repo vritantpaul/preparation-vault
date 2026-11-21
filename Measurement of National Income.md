@@ -765,7 +765,7 @@ Back:
 
 Footnotes: \* As such interest is paid on loans taken for consumption purposes. For example, interest on the EMI on the purchase of an iphone.
 \***
-^ To avoid double counting, because that interest is already baked into the value of the borrowing firm's final output.
+^ Households have separate heads for interest and profit, while firms has only one viz. <b>operating surplus</b>. Interest paid by firm A to firm B is just operating surplus of firm B. In case firm A is paying interest to a bank, the interest is split into: pure interest income of the bank (based on the reference rate), and <b>Financial Intermediation Services Indirectly Measured (FISIM)</b> which is the spread above the reference rate.
 Source: 
 Reverse:
 Tags: Concept
